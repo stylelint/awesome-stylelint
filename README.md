@@ -27,11 +27,14 @@
 
 ## Plugins
 
+- [stylelint-declaration-block-order](https://github.com/hudochenkov/stylelint-declaration-block-order) – Stylelint plugin which specifies the order of content within declaration blocks.
+- [stylelint-property-groups-structure](https://github.com/hudochenkov/stylelint-property-groups-structure) – Stylelint plugin which requires or disallow an empty line before property groups.
 - [stylelint-selector-bem-pattern](https://github.com/davidtheclark/stylelint-selector-bem-pattern) – A stylelint plugin that incorporates [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter).
 
 ## Tools
 
 - [stylefmt](https://github.com/morishitter/stylefmt) – Automatically fix some stylistic warnings by using stylefmt which supports stylelint configuration files.
+- [stylelint-test-rule-ava](https://github.com/hudochenkov/stylelint-test-rule-ava) – A stylelint rule tester using AVA.
 
 ## Tutorials
 

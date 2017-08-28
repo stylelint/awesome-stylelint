@@ -27,9 +27,7 @@
 
 ## Plugins
 
-- [stylelint-declaration-block-order](https://github.com/hudochenkov/stylelint-declaration-block-order) – stylelint plugin which specifies the order of content within declaration blocks.
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order) – A collection of order related linting rules for stylelint.
-- [stylelint-property-groups-structure](https://github.com/hudochenkov/stylelint-property-groups-structure) – stylelint plugin which requires or disallow an empty line before property groups.
 - [stylelint-scss](https://github.com/kristerkari/stylelint-scss) – A collection of SCSS specific linting rules for stylelint.
 - [stylelint-selector-bem-pattern](https://github.com/davidtheclark/stylelint-selector-bem-pattern) – A stylelint plugin that incorporates [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter).
 - [stylelint-declaration-use-variable](https://github.com/sh-waqar/stylelint-declaration-use-variable) – A stylelint plugin to check the use of variables on declaration in (less/scss/css).

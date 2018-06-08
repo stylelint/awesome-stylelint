@@ -33,6 +33,7 @@
 - [stylelint-selector-bem-pattern](https://github.com/davidtheclark/stylelint-selector-bem-pattern) – A stylelint plugin that incorporates [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter).
 - [stylelint-declaration-use-variable](https://github.com/sh-waqar/stylelint-declaration-use-variable) – A stylelint plugin to check the use of variables on declaration in (less/scss/css).
 - [stylelint-no-unsupported-browser-features](https://github.com/ismay/stylelint-no-unsupported-browser-features) - A stylelint plugin that checks if the CSS you're using is supported by the browsers you're targeting.
+- [stylelint-a11y](https://github.com/YozhikM/stylelint-a11y) - A stylelint plugin to check the accessibility of your CSS for users.
 
 ## Tools
 

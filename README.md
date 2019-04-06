@@ -21,6 +21,7 @@
 - [stylelint](https://github.com/stylelint/stylelint-config-standard) - The standard shareable config for stylelint
 - [Wikimedia](https://github.com/wikimedia/stylelint-config-wikimedia) – Wikimedia CSS Coding Standards shareable config for stylelint
 - [WordPress](https://github.com/ntwb/stylelint-config-wordpress/) – WordPress CSS Coding Standards shareable config for stylelint
+- [rational-order](https://github.com/constverum/stylelint-config-rational-order) - Stylelint config that sorts related property declarations by grouping together in the rational order
 
 ## Formatters
 

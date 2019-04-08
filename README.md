@@ -1,15 +1,13 @@
 # Awesome stylelint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://raw.githubusercontent.com/stylelint/stylelint/master/identity/stylelint-icon-white-512.png" width="160" align="right" alt="stylelint">](http://stylelint.org)
+[<img src="https://raw.githubusercontent.com/stylelint/stylelint/master/identity/stylelint-icon-white-512.png" width="160" align="right" alt="stylelint">](https://stylelint.io/)
 
 > A list of awesome stylelint configs, plugins, etc.
 
-[![Build Status](https://travis-ci.org/ntwb/awesome-stylelint.svg?branch=master)](https://travis-ci.org/ntwb/awesome-stylelint)
-
-## Table of Contents
+## Contents
 
 - [Configs](#configs)
-- [Formatters](#Formatters)
+- [Formatters](#formatters)
 - [Plugins](#plugins)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
@@ -25,31 +23,31 @@
 
 ## Formatters
 
-- [stylelint-checkstyle-formatter](https://github.com/davidtheclark/stylelint-checkstyle-formatter) – Output Checkstyle XML reports of stylelint results
+- [stylelint-checkstyle-formatter](https://github.com/davidtheclark/stylelint-checkstyle-formatter) - Output Checkstyle XML reports of stylelint results.
 
 ## Plugins
 
-- [stylelint-order](https://github.com/hudochenkov/stylelint-order) – A collection of order related linting rules for stylelint.
-- [stylelint-scss](https://github.com/kristerkari/stylelint-scss) – A collection of SCSS specific linting rules for stylelint.
-- [stylelint-selector-bem-pattern](https://github.com/davidtheclark/stylelint-selector-bem-pattern) – A stylelint plugin that incorporates [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter).
-- [stylelint-declaration-use-variable](https://github.com/sh-waqar/stylelint-declaration-use-variable) – A stylelint plugin to check the use of variables on declaration in (less/scss/css).
+- [stylelint-order](https://github.com/hudochenkov/stylelint-order) - A collection of order related linting rules for stylelint.
+- [stylelint-scss](https://github.com/kristerkari/stylelint-scss) - A collection of SCSS specific linting rules for stylelint.
+- [stylelint-selector-bem-pattern](https://github.com/davidtheclark/stylelint-selector-bem-pattern) - A stylelint plugin that incorporates [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter).
+- [stylelint-declaration-use-variable](https://github.com/sh-waqar/stylelint-declaration-use-variable) - A stylelint plugin to check the use of variables on declaration in (less/scss/css).
 - [stylelint-no-unsupported-browser-features](https://github.com/ismay/stylelint-no-unsupported-browser-features) - A stylelint plugin that checks if the CSS you're using is supported by the browsers you're targeting.
 - [stylelint-a11y](https://github.com/YozhikM/stylelint-a11y) - A stylelint plugin to check the accessibility of your CSS for users.
 
 ## Tools
 
-- [stylefmt](https://github.com/morishitter/stylefmt) – Automatically fix some stylistic warnings by using stylefmt which supports stylelint configuration files.
-- [stylelint-test-rule-ava](https://github.com/hudochenkov/stylelint-test-rule-ava) – A stylelint rule tester using AVA.
+- [stylefmt](https://github.com/morishitter/stylefmt) - Automatically fix some stylistic warnings by using stylefmt which supports stylelint configuration files.
+- [stylelint-test-rule-ava](https://github.com/hudochenkov/stylelint-test-rule-ava) - A stylelint rule tester using AVA.
 
 ## Tutorials
 
-- [Lint your CSS with stylelint](https://css-tricks.com/stylelint/): Written by one of stylelint's co-creators, this is the definitive article on stylelint.
-- [Stylelint: The Style Sheet Linter We’ve Always Wanted](https://www.smashingmagazine.com/2016/05/stylelint-the-style-sheet-linter-weve-always-wanted/): Why linting a stylesheet matters and how stylelint brings order to a stylesheet. *(We now recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint), rather than the `gulp-postcss` and `postcss-reporter` combination outlined in the article. Also, both the “prevent qualified selectors” and “enforce shorthand values” plugins were rolled into the core rules as `selector-no-qualifying-type` and `shorthand-property-no-redundant-values` respectively)*
-- [Improving CSS quality at Facebook and beyond](https://code.facebook.com/posts/879890885467584/improving-css-quality-at-facebook-and-beyond): Detailing Facebook's switch from a custom CSS linter to stylelint.
-- [How to lint your Sass/CSS properly with stylelint](http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/): Introduction to linting CSS. *(As above, we now recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint), rather than the `gulp-postcss` and `postcss-reporter` combination outlined in the article)*
-- [Improving the Quality of Your CSS with PostCSS](http://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/): Introduction to various PostCSS linting tools. *(As above, we recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint). Also, `doiuse` is now bundled in stylelint as the `no-unsupported-browser-features` rule)*
-- [Floss your style sheets with Stylelint](https://benfrain.com/floss-your-style-sheets-with-stylelint/): The first article written about stylelint. *(As before, we now recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint))*
+- [Lint your CSS with stylelint](https://css-tricks.com/stylelint/) - Written by one of stylelint's co-creators, this is the definitive article on stylelint.
+- [Stylelint: The Style Sheet Linter We’ve Always Wanted](https://www.smashingmagazine.com/2016/05/stylelint-the-style-sheet-linter-weve-always-wanted/) - Why linting a stylesheet matters and how stylelint brings order to a stylesheet. *(We now recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint), rather than the `gulp-postcss` and `postcss-reporter` combination outlined in the article. Also, both the “prevent qualified selectors” and “enforce shorthand values” plugins were rolled into the core rules as `selector-no-qualifying-type` and `shorthand-property-no-redundant-values` respectively)*
+- [Improving CSS quality at Facebook and beyond](https://code.facebook.com/posts/879890885467584/improving-css-quality-at-facebook-and-beyond) - Detailing Facebook's switch from a custom CSS linter to stylelint.
+- [How to lint your Sass/CSS properly with stylelint](http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/) - Introduction to linting CSS. *(As above, we now recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint), rather than the `gulp-postcss` and `postcss-reporter` combination outlined in the article)*
+- [Improving the Quality of Your CSS with PostCSS](http://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/) - Introduction to various PostCSS linting tools. *(As above, we recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint). Also, `doiuse` is now bundled in stylelint as the `no-unsupported-browser-features` rule)*
+- [Floss your style sheets with Stylelint](https://benfrain.com/floss-your-style-sheets-with-stylelint/) - The first article written about stylelint. *(As before, we now recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint))*
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

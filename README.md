@@ -16,7 +16,8 @@
 
 - [GitHub](https://github.com/primer/stylelint-config-primer) - Sharable stylelint config used by GitHub's CSS
 - [strict-scss](https://github.com/wemake-services/stylelint-config-strict-scss) - Strict shareable config for stylelint and SCSS
-- [stylelint](https://github.com/stylelint/stylelint-config-standard) - The standard shareable config for stylelint
+- [stylelint-standard](https://github.com/stylelint/stylelint-config-standard) - The standard shareable config for stylelint
+- [stylelint-recommended](https://github.com/stylelint/stylelint-config-standard) - The recommended shareable config for stylelint
 - [Wikimedia](https://github.com/wikimedia/stylelint-config-wikimedia) – Wikimedia CSS Coding Standards shareable config for stylelint
 - [WordPress](https://github.com/WordPress-Coding-Standards/stylelint-config-wordpress) – WordPress CSS Coding Standards shareable config for stylelint
 - [rational-order](https://github.com/constverum/stylelint-config-rational-order) - Stylelint config that sorts related property declarations by grouping together in the rational order

@@ -24,6 +24,7 @@
 ## Formatters
 
 - [stylelint-checkstyle-formatter](https://github.com/davidtheclark/stylelint-checkstyle-formatter) - Output Checkstyle XML reports of stylelint results.
+- [stylelint-formatter-github](https://github.com/hipstersmoothie/stylelint-formatter-github) - See stylelint errors and warnings directly in pull requests
 
 ## Plugins
 

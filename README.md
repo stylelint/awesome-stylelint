@@ -35,6 +35,7 @@
 - [stylelint-declaration-use-variable](https://github.com/sh-waqar/stylelint-declaration-use-variable) - A stylelint plugin to check the use of variables on declaration in (less/scss/css).
 - [stylelint-no-unsupported-browser-features](https://github.com/ismay/stylelint-no-unsupported-browser-features) - A stylelint plugin that checks if the CSS you're using is supported by the browsers you're targeting.
 - [stylelint-a11y](https://github.com/YozhikM/stylelint-a11y) - A stylelint plugin to check the accessibility of your CSS for users.
+- [stylelint-high-performance-animation](https://github.com/kristerkari/stylelint-high-performance-animation) - A stylelint rule for preventing the use of low performance animation and transition properties.
 
 ## Tools
 

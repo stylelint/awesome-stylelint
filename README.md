@@ -1,3 +1,4 @@
+<!--lint disable awesome-heading-->
 # Awesome stylelint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/stylelint/stylelint/master/identity/stylelint-icon-white-512.png" width="160" align="right" alt="stylelint">](https://stylelint.io/)
@@ -14,18 +15,18 @@
 
 ## Configs
 
-- [GitHub](https://github.com/primer/stylelint-config-primer) - Sharable stylelint config used by GitHub's CSS
-- [strict-scss](https://github.com/wemake-services/stylelint-config-strict-scss) - Strict shareable config for stylelint and SCSS
-- [stylelint-standard](https://github.com/stylelint/stylelint-config-standard) - The standard shareable config for stylelint
-- [stylelint-recommended](https://github.com/stylelint/stylelint-config-standard) - The recommended shareable config for stylelint
-- [Wikimedia](https://github.com/wikimedia/stylelint-config-wikimedia) – Wikimedia CSS Coding Standards shareable config for stylelint
-- [WordPress](https://github.com/WordPress-Coding-Standards/stylelint-config-wordpress) – WordPress CSS Coding Standards shareable config for stylelint
-- [rational-order](https://github.com/constverum/stylelint-config-rational-order) - Stylelint config that sorts related property declarations by grouping together in the rational order
+- [GitHub](https://github.com/primer/stylelint-config-primer) - Sharable stylelint config used by GitHub's CSS.
+- [rational-order](https://github.com/constverum/stylelint-config-rational-order) - Stylelint config that sorts related property declarations by grouping together in the rational order.
+- [strict-scss](https://github.com/wemake-services/stylelint-config-strict-scss) - Strict shareable config for stylelint and SCSS.
+- [stylelint-recommended](https://github.com/stylelint/stylelint-config-standard) - The recommended shareable config for stylelint.
+- [stylelint-standard](https://github.com/stylelint/stylelint-config-standard) - The standard shareable config for stylelint.
+- [Wikimedia](https://github.com/wikimedia/stylelint-config-wikimedia) - Wikimedia CSS Coding Standards shareable config for stylelint.
+- [WordPress](https://github.com/WordPress-Coding-Standards/stylelint-config-wordpress) - WordPress CSS Coding Standards shareable config for stylelint.
 
 ## Formatters
 
 - [stylelint-checkstyle-formatter](https://github.com/davidtheclark/stylelint-checkstyle-formatter) - Output Checkstyle XML reports of stylelint results.
-- [stylelint-formatter-github](https://github.com/hipstersmoothie/stylelint-formatter-github) - See stylelint errors and warnings directly in pull requests
+- [stylelint-formatter-github](https://github.com/hipstersmoothie/stylelint-formatter-github) - See stylelint errors and warnings directly in pull requests.
 
 ## Plugins
 
@@ -45,7 +46,7 @@
 ## Tutorials
 
 - [Lint your CSS with stylelint](https://css-tricks.com/stylelint/) - Written by one of stylelint's co-creators, this is the definitive article on stylelint.
-- [Stylelint: The Style Sheet Linter We’ve Always Wanted](https://www.smashingmagazine.com/2016/05/stylelint-the-style-sheet-linter-weve-always-wanted/) - Why linting a stylesheet matters and how stylelint brings order to a stylesheet. *(We now recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint), rather than the `gulp-postcss` and `postcss-reporter` combination outlined in the article. Also, both the “prevent qualified selectors” and “enforce shorthand values” plugins were rolled into the core rules as `selector-no-qualifying-type` and `shorthand-property-no-redundant-values` respectively)*
+- [Stylelint: The Style Sheet Linter We've Always Wanted](https://www.smashingmagazine.com/2016/05/stylelint-the-style-sheet-linter-weve-always-wanted/) - Why linting a stylesheet matters and how stylelint brings order to a stylesheet.
 - [Improving CSS quality at Facebook and beyond](https://code.facebook.com/posts/879890885467584/improving-css-quality-at-facebook-and-beyond) - Detailing Facebook's switch from a custom CSS linter to stylelint.
 - [How to lint your Sass/CSS properly with stylelint](http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/) - Introduction to linting CSS. *(As above, we now recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint), rather than the `gulp-postcss` and `postcss-reporter` combination outlined in the article)*
 - [Improving the Quality of Your CSS with PostCSS](http://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/) - Introduction to various PostCSS linting tools. *(As above, we recommend using [`gulp-stylelint`](https://github.com/olegskl/gulp-stylelint). Also, `doiuse` is now bundled in stylelint as the `no-unsupported-browser-features` rule)*

@@ -52,7 +52,7 @@
 - [stylelint-no-browser-hacks](https://github.com/Slamdunk/stylelint-no-browser-hacks) - Disallow browser hacks that are irrelevant to the browsers you are targeting; uses [stylehacks](https://github.com/ben-eb/stylehacks).
 - [stylelint-no-indistinguishable-colors](https://github.com/ierhyna/stylelint-no-indistinguishable-colors) - Disallow colors that are suspiciously close to being identical.
 - [stylelint-no-unused-selectors](https://github.com/nodaguti/stylelint-no-unused-selectors) - Disallow unused selectors, i.e., selectors that are not referenced from documents.
-- [stylelint-plugin-ecss`](https://github.com/tyankatsu0105/stylelint-plugin-ecss) - A set of rules to enforce [`Enduring CSS](http://ecss.io/) architecture.
+- [stylelint-plugin-ecss](https://github.com/tyankatsu0105/stylelint-plugin-ecss) - A set of rules to enforce [`Enduring CSS](http://ecss.io/) architecture.
 - [stylelint-prettier](https://github.com/prettier/stylelint-prettier) - Runs [Prettier](https://prettier.io/) as a stylelint rule.
 - [stylelint-react-native](https://github.com/kristerkari/stylelint-react-native) - Enforce React Native specific linting rules (plugin pack).
 - [stylelint-rscss](https://github.com/rstacruz/stylelint-rscss) - Validate [RSCSS](http://rscss.io) conventions.

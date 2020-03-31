@@ -38,7 +38,7 @@
 - [stylelint-a11y](https://github.com/YozhikM/stylelint-a11y) - A stylelint plugin to check the accessibility of your CSS for users.
 - [stylelint-high-performance-animation](https://github.com/kristerkari/stylelint-high-performance-animation) - A stylelint rule for preventing the use of low performance animation and transition properties.
 - [@signal-noise/stylelint-scales](https://github.com/signal-noise/stylelint-scales) - Enforce a variety of scale related linting rules (plugin pack).
-- [stylelint-8-point-grid](https://github.com/dcrtantuco/stylelint-8-point-grid) - Validate CSS with 8-point grid guideline
+- [stylelint-8-point-grid](https://github.com/dcrtantuco/stylelint-8-point-grid) - Validate CSS with 8-point grid guideline.
 - [stylelint-at-rule-no-children](https://github.com/adityavm/stylelint-at-rule-no-children) - Disallow block rule declarations inside at-rules (with a few exceptions).
 - [stylelint-color-format](https://github.com/filipekiss/stylelint-color-format) - Convert HEX colors to either RGB or HSL.
 - [stylelint-csstree-validator](https://github.com/csstree/stylelint-validator) - Validate CSS values to match W3C specs and browsers extensions.
@@ -48,7 +48,7 @@
 - [stylelint-group-selectors](https://github.com/ssivanatarajan/stylelint-group-selectors) - Identify the selectors, which can be grouped, as they have same set of properties and values.
 - [stylelint-images](https://github.com/ramasilveyra/stylelint-images) - Check your CSS images to improve the performance and avoid common mistakes (plugin pack).
 - [stylelint-itcss](https://github.com/KamiKillertO/stylelint-itcss) - A set of rules to enforce ITCSS architecture.
-- [stylelint-media-use-custom-media](https://github.com/csstools/stylelint-media-use-custom-media) - Enforce usage of custom media queries in CSS
+- [stylelint-media-use-custom-media](https://github.com/csstools/stylelint-media-use-custom-media) - Enforce usage of custom media queries in CSS.
 - [stylelint-no-browser-hacks](https://github.com/Slamdunk/stylelint-no-browser-hacks) - Disallow browser hacks that are irrelevant to the browsers you are targeting; uses [stylehacks](https://github.com/ben-eb/stylehacks).
 - [stylelint-no-indistinguishable-colors](https://github.com/ierhyna/stylelint-no-indistinguishable-colors) - Disallow colors that are suspiciously close to being identical.
 - [stylelint-no-unused-selectors](https://github.com/nodaguti/stylelint-no-unused-selectors) - Disallow unused selectors, i.e., selectors that are not referenced from documents.

@@ -63,6 +63,7 @@
 - [stylelint-use-nesting](https://github.com/csstools/stylelint-use-nesting) - Enforce nesting when it is possible in CSS.
 - [stylelint-value-no-unknown-custom-properties](https://github.com/csstools/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
 - [stylelint-z-index-value-constraint](https://github.com/kristerkari/stylelint-z-index-value-constraint) - Specify minimum and maximum constraint value for z-index.
+- [stylelint-plugin-stylus](https://github.com/ota-meshi/stylelint-plugin-stylus) - stylelint plugin for [Stylus](https://stylus-lang.com/).
 
 ## Tools
 

@@ -68,8 +68,7 @@
 
 ## Tools
 
-- [stylefmt](https://github.com/morishitter/stylefmt) - Automatically fix some stylistic warnings by using stylefmt which supports stylelint configuration files.
-- [stylelint-test-rule-ava](https://github.com/hudochenkov/stylelint-test-rule-ava) - A stylelint rule tester using AVA.
+- [stylelint-tape](https://www.npmjs.com/package/stylelint-tape) - A stylelint rule tester using tape.
 
 ## Tutorials
 

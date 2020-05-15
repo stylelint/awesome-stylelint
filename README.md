@@ -68,6 +68,7 @@
 
 ## Tools
 
+- [stylelint-find-new-rules](https://github.com/Donov4n/stylelint-find-new-rules) - Find stylelint rules that are not configured in your stylelint config.
 - [stylelint-tape](https://www.npmjs.com/package/stylelint-tape) - A stylelint rule tester using tape.
 
 ## Tutorials

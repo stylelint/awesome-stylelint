@@ -65,6 +65,7 @@
 - [stylelint-value-no-unknown-custom-properties](https://github.com/csstools/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
 - [stylelint-z-index-value-constraint](https://github.com/kristerkari/stylelint-z-index-value-constraint) - Specify minimum and maximum constraint value for z-index.
 - [stylelint-plugin-stylus](https://github.com/ota-meshi/stylelint-plugin-stylus) - stylelint plugin for [Stylus](https://stylus-lang.com/).
+- [stylelint-css-modules](https://github.com/juanca/stylelint-css-modules) - A set of rules to enforce CSS modules architecture.
 
 ## Tools
 

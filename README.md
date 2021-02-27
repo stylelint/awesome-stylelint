@@ -68,6 +68,8 @@
 - [stylelint-css-modules](https://github.com/juanca/stylelint-css-modules) - A set of rules to enforce CSS modules architecture.
 - [stylelint-no-restricted-syntax](https://github.com/niksy/stylelint-no-restricted-syntax) - Stylelint rule to disallow specified syntax, similar to ESLint `no-restricted-syntax`.
 - [stylelint-no-unresolved-module](https://github.com/niksy/stylelint-no-unresolved-module) - Ensures that module (import-like or `url`) can be resolved to a module on the file system.
+- [stylelint-max-lines](https://github.com/dkrnl/stylelint-max-lines) - Limit the count of a lines.
+- [stylelint-no-nested-media](https://github.com/dkrnl/stylelint-no-nested-media) - Disallow nested @media rules.
 
 ## Tools
 

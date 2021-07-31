@@ -60,7 +60,7 @@
 - [stylelint-selector-no-empty](https://github.com/ssivanatarajan/stylelint-selector-no-empty) - Disallow empty Selectors.
 - [stylelint-selector-tag-no-without-class](https://github.com/Moxio/stylelint-selector-tag-no-without-class) - Disallow certain tags without a class qualifier in selectors.
 - [stylelint-suitcss](https://github.com/suitcss/stylelint-suitcss) - A collection of stylelint plugins for SUIT CSS, including deprecated `:root` rules (plugin pack).
-- [stylelint-use-logical](https://github.com/csstools/stylelint-use-logical) - Enforce usage of logical properties and values in CSS.
+- [stylelint-use-logical-spec](https://github.com/Jordan-Hall/stylelint-use-logical-spec) - Enforce usage of logical properties and values in CSS.
 - [stylelint-use-nesting](https://github.com/csstools/stylelint-use-nesting) - Enforce nesting when it is possible in CSS.
 - [stylelint-value-no-unknown-custom-properties](https://github.com/csstools/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
 - [stylelint-z-index-value-constraint](https://github.com/kristerkari/stylelint-z-index-value-constraint) - Specify minimum and maximum constraint value for z-index.

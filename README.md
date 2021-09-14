@@ -69,6 +69,7 @@
 - [stylelint-no-unresolved-module](https://github.com/niksy/stylelint-no-unresolved-module) - Ensures that module (import-like or `url`) can be resolved to a module on the file system.
 - [stylelint-max-lines](https://github.com/dkrnl/stylelint-max-lines) - Limit the count of a lines.
 - [stylelint-no-nested-media](https://github.com/dkrnl/stylelint-no-nested-media) - Disallow nested @media rules.
+- [stylelint-sass-render-errors](https://github.com/niksy/stylelint-sass-render-errors) - Display Sass render errors and deprecations as lint errors.
 
 ## Tools
 

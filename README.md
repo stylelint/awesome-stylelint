@@ -23,6 +23,7 @@
 - [Wikimedia](https://github.com/wikimedia/stylelint-config-wikimedia) - Wikimedia CSS Coding Standards shareable config for stylelint.
 - [WordPress](https://github.com/WordPress-Coding-Standards/stylelint-config-wordpress) - WordPress CSS Coding Standards shareable config for stylelint.
 - [stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - A stylelint config based on [https://sass-guidelin.es/](https://sass-guidelin.es/).
+- [Recess Property Order](https://github.com/stormwarning/stylelint-config-recess-order) - Sorts CSS properties the way Recess did and Bootstrap does.
 
 ## Formatters
 

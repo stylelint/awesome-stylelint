@@ -63,6 +63,7 @@
 - [stylelint-use-logical-spec](https://github.com/Jordan-Hall/stylelint-use-logical-spec) - Enforce usage of logical properties and values in CSS.
 - [stylelint-use-nesting](https://github.com/csstools/stylelint-use-nesting) - Enforce nesting when it is possible in CSS.
 - [stylelint-value-no-unknown-custom-properties](https://github.com/csstools/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
+- [stylelint-value-no-exposed-custom-properties](https://github.com/denisraslov/stylelint-value-no-exposed-custom-properties) - Disallow usage of exposed custom properties.
 - [stylelint-z-index-value-constraint](https://github.com/kristerkari/stylelint-z-index-value-constraint) - Specify minimum and maximum constraint value for z-index.
 - [stylelint-stylus](https://github.com/stylus/stylelint-stylus) - stylelint plugin for [Stylus](https://stylus-lang.com/).
 - [stylelint-css-modules](https://github.com/juanca/stylelint-css-modules) - A set of rules to enforce CSS modules architecture.

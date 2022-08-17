@@ -28,6 +28,7 @@
 ## Formatters
 
 - [stylelint-checkstyle-formatter](https://github.com/davidtheclark/stylelint-checkstyle-formatter) - Output Checkstyle XML reports of stylelint results.
+- [stylelint-codeframe-formatter](https://github.com/bencergazda/stylelint-codeframe-formatter) - Stylelint formatter using [babel-code-frame](https://www.npmjs.com/package/babel-code-frame) to show the piece of code where the errors and warnings are.
 - [stylelint-formatter-github](https://github.com/hipstersmoothie/stylelint-formatter-github) - See stylelint errors and warnings directly in pull requests.
 
 ## Plugins

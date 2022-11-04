@@ -20,6 +20,7 @@
 - [stylelint-standard](https://github.com/stylelint/stylelint-config-standard) - The standard shareable config for Stylelint (extends the recommended one).
 - [stylelint-standard-scss](https://github.com/stylelint-scss/stylelint-config-standard-scss) - Same as above, when using SCSS.
 - [Prettier](https://github.com/prettier/stylelint-config-prettier) - Turns off all rules that are unnecessary when using Prettier.
+- [Prettier-scss](https://github.com/prettier/stylelint-config-prettier-scss) - Same as above, when using SCSS.
 - [GitHub](https://github.com/primer/stylelint-config-primer) - Sharable Stylelint config used by GitHub's CSS.
 - [rational-order](https://github.com/constverum/stylelint-config-rational-order) - Stylelint config that sorts related property declarations by grouping together in the rational order.
 - [hudochenkov/order](https://github.com/hudochenkov/stylelint-config-hudochenkov/blob/master/order.js) - Another config that sorts property declarations logically.

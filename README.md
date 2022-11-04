@@ -17,6 +17,7 @@
 
 - [GitHub](https://github.com/primer/stylelint-config-primer) - Sharable Stylelint config used by GitHub's CSS.
 - [rational-order](https://github.com/constverum/stylelint-config-rational-order) - Stylelint config that sorts related property declarations by grouping together in the rational order.
+- [hudochenkov/order](https://github.com/hudochenkov/stylelint-config-hudochenkov/blob/master/order.js) - Another config that sorts property declarations logically.
 - [strict-scss](https://github.com/wemake-services/wemake-frontend-styleguide/tree/master/packages/stylelint-config-scss) - Strict shareable config for Stylelint and SCSS.
 - [stylelint-recommended](https://github.com/stylelint/stylelint-config-recommended) - The recommended shareable config for Stylelint.
 - [stylelint-standard](https://github.com/stylelint/stylelint-config-standard) - The standard shareable config for Stylelint.

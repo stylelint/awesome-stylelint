@@ -79,7 +79,7 @@
 - [stylelint-max-lines](https://github.com/dkrnl/stylelint-max-lines) - Limit the count of a lines.
 - [stylelint-no-nested-media](https://github.com/dkrnl/stylelint-no-nested-media) - Disallow nested @media rules.
 - [stylelint-sass-render-errors](https://github.com/niksy/stylelint-sass-render-errors) - Display Sass render errors and deprecations as lint errors.
-- [@isnotdefined/stylelint-plugin](https://github.com/isnotdefinedcom/stylelint-plugin) - Collection of Stylelint rules such as `no-obsolete` to ban obsolete selectors, properties or values and `unit-step` to enforce 0.125 steps for relative units.
+- [@isnotdefined/stylelint-plugin](https://github.com/isnotdefinedcom/stylelint-plugin) - Collection of Stylelint rules such as `no-disable`, `no-obsolete` and `unit-step`.
 - [stylelint-gamut](https://github.com/fpetrakov/stylelint-gamut) - Stylelint plugin for working with different color spaces.
 
 ## Tools

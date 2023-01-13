@@ -125,6 +125,7 @@
 
 ## Testing
 
+- [jest-preset-stylelint](https://www.npmjs.com/package/jest-preset-stylelint) - Jest preset for Stylelint plugins.
 - [stylelint-tape](https://www.npmjs.com/package/stylelint-tape) - Test custom rules using Tape.
 
 ## Tools

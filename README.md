@@ -23,7 +23,7 @@
 
 - [codacy-stylelint](https://github.com/codacy/codacy-stylelint) - Codacy integration.
 - [codeclimate-stylelint](https://github.com/gilbarbara/codeclimate-stylelint) - Code Climate integration.
-- [mega-linter](https://nvuillam.github.io/mega-linter) - Integrated into Mega-Linter.
+- [megalinter](https://megalinter.io) - Integrated into MegaLinter.
 - [putout](https://github.com/coderaiser/putout) - Integrated into Putout.
 - [reviewdog/action-stylelint](https://github.com/reviewdog/action-stylelint) - Reviewdog GitHub Action.
 

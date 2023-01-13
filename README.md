@@ -34,7 +34,7 @@
 - [stylelint-config-primer](https://github.com/primer/stylelint-config-primer) - The GitHub shareable config.
 - [stylelint-config-rational-orderr](https://github.com/constverum/stylelint-config-rational-order) - Sorts related property declarations by grouping together in the rational order.
 - [stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order) - Sorts CSS properties the way Recess did and Bootstrap does.
-- [stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - SASS guidelines config.
+- [stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - Sass guidelines config.
 - [stylelint-config-standard-scss](https://github.com/stylelint-scss/stylelint-config-standard-scss) - Standard config for SCSS.
 - [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard) - Standard config for CSS.
 - [stylelint-config-wikimedia](https://github.com/wikimedia/stylelint-config-wikimedia) - Wikimedia CSS Coding Standards shareable config.

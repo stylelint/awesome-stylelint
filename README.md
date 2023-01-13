@@ -50,6 +50,7 @@
 - [postcss-sass](https://www.npmjs.com/package/postcss-sass) - Sass.
 - [postcss-scss](https://www.npmjs.com/package/postcss-scss) - SCSS.
 - [postcss-styled-components](https://www.npmjs.com/package/postcss-styled-components) - Styled-components.
+- [postcss-styled-syntax](https://www.npmjs.com/package/postcss-styled-syntax) - Template literals.
 
 ## Editor integrations
 

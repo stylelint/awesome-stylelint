@@ -98,8 +98,8 @@
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order) - Order things like properties.
 - [stylelint-plugin-ecss](https://github.com/tyankatsu0105/stylelint-plugin-ecss) - Enforce Enduring CSS architecture.
 - [stylelint-plugin](https://github.com/isnotdefinedcom/stylelint-plugin) - Disallow obsolete CSS and enforce unit steps (Pack).
-- [stylelint-rem-over-px](https://github.com/a-tokyo/stylelint-rem-over-px) - 🕵️ Enforce the usage of rem units over px units.
 - [stylelint-react-native](https://github.com/kristerkari/stylelint-react-native) - Enforce React Native rules (Pack).
+- [stylelint-rem-over-px](https://github.com/a-tokyo/stylelint-rem-over-px) - Enforce `rem` units over `px` units.
 - [stylelint-rscss](https://github.com/rstacruz/stylelint-rscss) - Enforce RSCSS conventions (Pack).
 - [stylelint-sass-render-errors](https://github.com/niksy/stylelint-sass-render-errors) - Display Sass render errors and deprecations.
 - [stylelint-scales](https://github.com/signal-noise/stylelint-scales) - Enforce scales for values (Pack).

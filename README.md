@@ -87,6 +87,7 @@
 - [stylelint-images](https://github.com/ramasilveyra/stylelint-images) - Enforce good performance and avoid mistakes with images (Pack).
 - [stylelint-itcss](https://github.com/KamiKillertO/stylelint-itcss) - Enforce ITCSS architecture (Pack).
 - [stylelint-max-lines](https://github.com/dkrnl/stylelint-max-lines) - Limit the number of lines in a source.
+- [stylelint-file-max-lines](https://github.com/yixiaojiu/stylelint-file-max-lines) - Limit a maximum number of lines per file
 - [stylelint-media-use-custom-media](https://github.com/csstools/stylelint-media-use-custom-media) - Enforce usage of custom media queries.
 - [stylelint-no-browser-hacks](https://github.com/Slamdunk/stylelint-no-browser-hacks) - Disallow browser hacks that are irrelevant to the browsers you are targeting.
 - [stylelint-no-indistinguishable-colors](https://github.com/ierhyna/stylelint-no-indistinguishable-colors) - Disallow colors that are suspiciously close to being identical.

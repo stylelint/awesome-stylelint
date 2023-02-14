@@ -80,6 +80,7 @@
 - [stylelint-csstree-validator](https://github.com/csstree/stylelint-validator) - Validate CSS values to match W3C specs and browsers extensions.
 - [stylelint-declaration-block-no-ignored-properties](https://github.com/kristerkari/stylelint-declaration-block-no-ignored-properties) - Disallow property values that are ignored.
 - [stylelint-declaration-strict-value](https://github.com/AndyOGo/stylelint-declaration-strict-value) - Enforce variables, functions or keywords for the value of specific properties.
+- [stylelint-file-max-lines](https://github.com/yixiaojiu/stylelint-file-max-lines) - Limit a maximum number of lines per file
 - [stylelint-force-app-name-prefix](https://github.com/SunHuawei/stylelint-force-app-name-prefix/) - Enforce app name prefix for rules.
 - [stylelint-gamut](https://github.com/fpetrakov/stylelint-gamut) - Enforce standard different color spaces (Pack).
 - [stylelint-group-selectors](https://github.com/ssivanatarajan/stylelint-group-selectors) - Group selectors that have the same set of properties and values.
@@ -87,7 +88,6 @@
 - [stylelint-images](https://github.com/ramasilveyra/stylelint-images) - Enforce good performance and avoid mistakes with images (Pack).
 - [stylelint-itcss](https://github.com/KamiKillertO/stylelint-itcss) - Enforce ITCSS architecture (Pack).
 - [stylelint-max-lines](https://github.com/dkrnl/stylelint-max-lines) - Limit the number of lines in a source.
-- [stylelint-file-max-lines](https://github.com/yixiaojiu/stylelint-file-max-lines) - Limit a maximum number of lines per file
 - [stylelint-media-use-custom-media](https://github.com/csstools/stylelint-media-use-custom-media) - Enforce usage of custom media queries.
 - [stylelint-no-browser-hacks](https://github.com/Slamdunk/stylelint-no-browser-hacks) - Disallow browser hacks that are irrelevant to the browsers you are targeting.
 - [stylelint-no-indistinguishable-colors](https://github.com/ierhyna/stylelint-no-indistinguishable-colors) - Disallow colors that are suspiciously close to being identical.

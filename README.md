@@ -103,7 +103,7 @@
 - [stylelint-rem-over-px](https://github.com/a-tokyo/stylelint-rem-over-px) - Enforce `rem` units over `px` units.
 - [stylelint-rscss](https://github.com/rstacruz/stylelint-rscss) - Enforce RSCSS conventions (Pack).
 - [stylelint-sass-render-errors](https://github.com/niksy/stylelint-sass-render-errors) - Display Sass render errors and deprecations.
-- [stylelint-scales](https://github.com/signal-noise/stylelint-scales) - Enforce scales for values (Pack).
+- [stylelint-scales](https://github.com/jeddy3/stylelint-scales) - Enforce scales for numeric values (Pack).
 - [stylelint-scss](https://github.com/kristerkari/stylelint-scss) - SCSS-specific custom rules (Pack).
 - [stylelint-selector-bem-pattern](https://github.com/davidtheclark/stylelint-selector-bem-pattern) - Enforce BEM patterns for selectors.
 - [stylelint-selector-no-empty](https://github.com/ssivanatarajan/stylelint-selector-no-empty) - Disallow empty selectors.

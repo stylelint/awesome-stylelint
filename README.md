@@ -32,7 +32,7 @@
 - [stylelint-config-prettier-scss](https://github.com/prettier/stylelint-config-prettier-scss) - Turns off conflicting rules when using Prettier for SCSS.
 - [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier) - Turns off conflicting rules when using Prettier for CSS.
 - [stylelint-config-primer](https://github.com/primer/stylelint-config-primer) - The GitHub shareable config.
-- [stylelint-config-rational-orderr](https://github.com/constverum/stylelint-config-rational-order) - Sorts related property declarations by grouping together in the rational order.
+- [stylelint-config-rational-order](https://github.com/constverum/stylelint-config-rational-order) - Sorts related property declarations by grouping together in the rational order.
 - [stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order) - Sorts CSS properties the way Recess did and Bootstrap does.
 - [stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - Sass guidelines config.
 - [stylelint-config-standard-scss](https://github.com/stylelint-scss/stylelint-config-standard-scss) - Standard config for SCSS.

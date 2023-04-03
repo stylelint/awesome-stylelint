@@ -97,6 +97,7 @@
 - [stylelint-no-unsupported-browser-features](https://github.com/ismay/stylelint-no-unsupported-browser-features) - Disallow CSS that is unsupported by the browsers you're targeting.
 - [stylelint-no-unused-selectors](https://github.com/nodaguti/stylelint-no-unused-selectors) - Disallow unused selectors.
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order) - Order things like properties.
+- [stylelint-plugin-defensive-css](https://github.com/yuschick/stylelint-plugin-defensive-css) - A Stylelint plugin for enforcing defensive CSS best practices.
 - [stylelint-plugin-ecss](https://github.com/tyankatsu0105/stylelint-plugin-ecss) - Enforce Enduring CSS architecture.
 - [stylelint-plugin](https://github.com/isnotdefinedcom/stylelint-plugin) - Disallow obsolete CSS and enforce unit steps (Pack).
 - [stylelint-react-native](https://github.com/kristerkari/stylelint-react-native) - Enforce React Native rules (Pack).
@@ -116,7 +117,6 @@
 - [stylelint-value-no-exposed-custom-properties](https://github.com/denisraslov/stylelint-value-no-exposed-custom-properties) - Disallow usage of exposed custom properties.
 - [stylelint-value-no-unknown-custom-properties](https://github.com/csstools/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
 - [stylelint-z-index-value-constraint](https://github.com/kristerkari/stylelint-z-index-value-constraint) - Specify minimum and maximum constraint value for z-index.
-- [stylelint-plugin-defensive-css](https://github.com/yuschick/stylelint-plugin-defensive-css) - A Stylelint plugin for enforcing defensive CSS best practices.
 
 ## Task runners
 

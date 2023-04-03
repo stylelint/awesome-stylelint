@@ -108,6 +108,7 @@
 - [stylelint-selector-bem-pattern](https://github.com/davidtheclark/stylelint-selector-bem-pattern) - Enforce BEM patterns for selectors.
 - [stylelint-selector-no-empty](https://github.com/ssivanatarajan/stylelint-selector-no-empty) - Disallow empty selectors.
 - [stylelint-selector-tag-no-without-class](https://github.com/Moxio/stylelint-selector-tag-no-without-class) - Disallow certain tags without a class qualifier in selectors.
+- [stylelint-stylistic](https://github.com/elirasza/stylelint-stylistic) - Enforce several stylistic rules.
 - [stylelint-stylus](https://github.com/stylus/stylelint-stylus) - Stylelint plugin for Stylus.
 - [stylelint-suitcss](https://github.com/suitcss/stylelint-suitcss) - Enforce SUITCSS conventions (Pack).
 - [stylelint-use-logical-spec](https://github.com/Jordan-Hall/stylelint-use-logical-spec) - Enforce usage of logical properties and values.
@@ -115,8 +116,6 @@
 - [stylelint-value-no-exposed-custom-properties](https://github.com/denisraslov/stylelint-value-no-exposed-custom-properties) - Disallow usage of exposed custom properties.
 - [stylelint-value-no-unknown-custom-properties](https://github.com/csstools/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
 - [stylelint-z-index-value-constraint](https://github.com/kristerkari/stylelint-z-index-value-constraint) - Specify minimum and maximum constraint value for z-index.
-- [stylelint-stylistic](https://github.com/elirasza/stylelint-stylistic) - Enforce several stylistic rules.
-
 
 ## Task runners
 

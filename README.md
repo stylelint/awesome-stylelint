@@ -51,6 +51,7 @@
 - [postcss-scss](https://www.npmjs.com/package/postcss-scss) - SCSS.
 - [postcss-styled-components](https://www.npmjs.com/package/postcss-styled-components) - Styled-components.
 - [postcss-styled-syntax](https://www.npmjs.com/package/postcss-styled-syntax) - Template literals.
+- [postcss-angular](https://www.npmjs.com/package/postcss-angular) - Angular Components
 
 ## Editor integrations
 

@@ -42,6 +42,7 @@
 
 ## Custom syntaxes
 
+- [postcss-angular](https://www.npmjs.com/package/postcss-angular) - Angular Components.
 - [postcss-html](https://www.npmjs.com/package/postcss-html) - HTML, including Vue SFC.
 - [postcss-less](https://www.npmjs.com/package/postcss-less) - Less.
 - [postcss-linaria](https://www.npmjs.com/package/@linaria/postcss-linaria) - Linaria.

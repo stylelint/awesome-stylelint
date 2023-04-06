@@ -39,6 +39,7 @@
 - [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard) - Standard config for CSS.
 - [stylelint-config-wikimedia](https://github.com/wikimedia/stylelint-config-wikimedia) - Wikimedia CSS Coding Standards shareable config.
 - [stylelint-config-wordpress](https://github.com/WordPress-Coding-Standards/stylelint-config-wordpress) - WordPress CSS Coding Standards shareable config.
+- [stylelint-config-recommended-vue](https://github.com/ota-meshi/stylelint-config-recommended-vue) - The recommended shareable Vue config for Stylelint.
 
 ## Custom syntaxes
 

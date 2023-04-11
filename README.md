@@ -102,6 +102,7 @@
 - [stylelint-order](https://github.com/hudochenkov/stylelint-order) - Order things like properties.
 - [stylelint-plugin-defensive-css](https://github.com/yuschick/stylelint-plugin-defensive-css) - A Stylelint plugin for enforcing defensive CSS best practices.
 - [stylelint-plugin-ecss](https://github.com/tyankatsu0105/stylelint-plugin-ecss) - Enforce Enduring CSS architecture.
+- [stylelint-plugin-logical-css](https://github.com/yuschick/stylelint-plugin-logical-css) - A Stylelint plugin to enforce logical CSS properties, values and units.
 - [stylelint-react-native](https://github.com/kristerkari/stylelint-react-native) - Enforce React Native rules (Pack).
 - [stylelint-rem-over-px](https://github.com/a-tokyo/stylelint-rem-over-px) - Enforce `rem` units over `px` units.
 - [stylelint-rscss](https://github.com/rstacruz/stylelint-rscss) - Enforce RSCSS conventions (Pack).

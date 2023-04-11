@@ -118,7 +118,7 @@
 - [stylelint-use-nesting](https://github.com/csstools/stylelint-use-nesting) - Enforce nesting when it is possible.
 - [stylelint-value-no-exposed-custom-properties](https://github.com/denisraslov/stylelint-value-no-exposed-custom-properties) - Disallow usage of exposed custom properties.
 - [stylelint-value-no-unknown-custom-properties](https://github.com/csstools/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
-- [stylelint-z-index-value-constraint](https://github.com/kristerkari/stylelint-z-index-value-constraint) - Specify minimum and maximum constraint value for z-index.
+- [stylelint-plugin-logical-css](https://github.com/yuschick/stylelint-plugin-logical-css) - A Stylelint plugin to enforce logical CSS properties, values and units.
 
 ## Task runners
 

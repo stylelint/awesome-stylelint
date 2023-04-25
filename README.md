@@ -81,6 +81,7 @@
 - [stylelint-css-modules-no-global-scoped-selector](https://github.com/lmichelin/stylelint-css-modules-no-global-scoped-selector) - Disallow global-scoped selectors in CSS Modules.
 - [stylelint-css-modules](https://github.com/juanca/stylelint-css-modules) - Enforce CSS modules architecture (Pack).
 - [stylelint-csstree-validator](https://github.com/csstree/stylelint-validator) - Validate CSS values to match W3C specs and browsers extensions.
+- [stylelint-codeguide](https://github.com/firefoxic/stylelint-codeguide) - An updatable collection of stylistic rules for Stylelint.
 - [stylelint-declaration-block-no-ignored-properties](https://github.com/kristerkari/stylelint-declaration-block-no-ignored-properties) - Disallow property values that are ignored.
 - [stylelint-declaration-strict-value](https://github.com/AndyOGo/stylelint-declaration-strict-value) - Enforce variables, functions or keywords for the value of specific properties.
 - [stylelint-file-max-lines](https://github.com/yixiaojiu/stylelint-file-max-lines) - Limit a maximum number of lines per file.

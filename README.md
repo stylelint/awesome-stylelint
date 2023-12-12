@@ -141,6 +141,7 @@
 
 - [pre-commit-stylelint](https://github.com/thibaudcolas/pre-commit-stylelint) - Mirrors all releases for the pre-commit hooks framework.
 - [stylelint-find-new-rules](https://github.com/Donov4n/stylelint-find-new-rules) - Find Stylelint rules that are not configured in your Stylelint config.
+- [stylelint-define-config](https://github.com/stylelint-types/stylelint-define-config) - Provide a defineConfig function for stylelint.config.js files
 
 ## Tutorials
 

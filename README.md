@@ -73,7 +73,8 @@
 
 ## Plugins
 
-- [@isnotdefined/stylelint-plugin](https://github.com/isnotdefinedcom/stylelint-plugin) - Disallow obsolete CSS and enforce unit steps (Pack).
+- [@isnotdefined/stylelint-plugin](https://www.npmjs.com/package/@isnotdefined/stylelint-plugin) - Disallow obsolete CSS and enforce unit steps (Pack).
+- [@stylistic/stylelint-plugin](https://www.npmjs.com/package/@stylistic/stylelint-plugin) - A collection of stylistic rules that have been removed from Stylelint@16.
 - [stylelint-8-point-grid](https://github.com/dcrtantuco/stylelint-8-point-grid) - Enforce an 8-point grid.
 - [stylelint-a11y](https://github.com/YozhikM/stylelint-a11y) - Enforce accessibility standards (Pack).
 - [stylelint-at-rule-no-children](https://github.com/adityavm/stylelint-at-rule-no-children) - Disallow block rule declarations inside at-rules.
@@ -112,7 +113,6 @@
 - [stylelint-selector-bem-pattern](https://github.com/davidtheclark/stylelint-selector-bem-pattern) - Enforce BEM patterns for selectors.
 - [stylelint-selector-no-empty](https://github.com/ssivanatarajan/stylelint-selector-no-empty) - Disallow empty selectors.
 - [stylelint-selector-tag-no-without-class](https://github.com/Moxio/stylelint-selector-tag-no-without-class) - Disallow certain tags without a class qualifier in selectors.
-- [stylelint-stylistic](https://github.com/stylelint-stylistic/stylelint-stylistic) - A collection of stylistic rules that have been removed from Stylelint@16.
 - [stylelint-stylus](https://github.com/stylus/stylelint-stylus) - Stylelint plugin for Stylus.
 - [stylelint-suitcss](https://github.com/suitcss/stylelint-suitcss) - Enforce SUITCSS conventions (Pack).
 - [stylelint-use-logical-spec](https://github.com/Jordan-Hall/stylelint-use-logical-spec) - Enforce usage of logical properties and values.

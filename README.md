@@ -74,11 +74,11 @@
 ## Plugins
 
 - [@isnotdefined/stylelint-plugin](https://www.npmjs.com/package/@isnotdefined/stylelint-plugin) - Disallow obsolete CSS and enforce unit steps (Pack).
-- [@stylistic/stylelint-plugin](https://www.npmjs.com/package/@stylistic/stylelint-plugin) - A collection of stylistic rules that have been removed from Stylelint@16.
+- [@stylistic/stylelint-plugin](https://www.npmjs.com/package/@stylistic/stylelint-plugin) - Enforce stylistic conventions by using the rules removed in Stylelint 16.0.0 (Pack)
 - [stylelint-8-point-grid](https://www.npmjs.com/package/stylelint-8-point-grid) - Enforce an 8-point grid.
 - [stylelint-a11y](https://www.npmjs.com/package/stylelint-a11y) - Enforce accessibility standards (Pack).
 - [stylelint-at-rule-no-children](https://www.npmjs.com/package/stylelint-at-rule-no-children) - Disallow block rule declarations inside at-rules.
-- [stylelint-color-format](https://www.npmjs.com/package/stylelint-color-format) - Convert HEX colors to either RGB or HSL.
+- [stylelint-color-format](https://www.npmjs.com/package/stylelint-color-format) - Enforce HEX, RGB or HSL colors.
 - [stylelint-css-modules-no-global-scoped-selector](https://www.npmjs.com/package/stylelint-css-modules-no-global-scoped-selector) - Disallow global-scoped selectors in CSS Modules.
 - [stylelint-css-modules](https://www.npmjs.com/package/stylelint-css-modules) - Enforce CSS modules architecture (Pack).
 - [stylelint-csstree-validator](https://www.npmjs.com/package/stylelint-csstree-validator) - Validate CSS values to match W3C specs and browsers extensions.
@@ -88,7 +88,7 @@
 - [stylelint-force-app-name-prefix](https://www.npmjs.com/package/stylelint-force-app-name-prefix) - Enforce app name prefix for rules.
 - [stylelint-gamut](https://www.npmjs.com/package/stylelint-gamut) - Enforce standard different color spaces (Pack).
 - [stylelint-group-selectors](https://www.npmjs.com/package/stylelint-group-selectors) - Group selectors that have the same set of properties and values.
-- [stylelint-high-performance-animation](https://github.com/kristerkari/stylelint-high-performance-animation) - Avoid low-performance animation and transition properties.
+- [stylelint-high-performance-animation](https://github.com/kristerkari/stylelint-high-performance-animation) - Disallow low-performance animation and transition properties.
 - [stylelint-images](https://www.npmjs.com/package/stylelint-images) - Enforce good performance and avoid mistakes with images (Pack).
 - [stylelint-itcss](https://www.npmjs.com/package/stylelint-itcss) - Enforce ITCSS architecture (Pack).
 - [stylelint-max-lines](https://www.npmjs.com/package/stylelint-max-lines) - Limit the number of lines in a source.
@@ -100,20 +100,20 @@
 - [stylelint-no-unresolved-module](https://www.npmjs.com/package/stylelint-no-unresolved-module) - Disallow unresolved imports (import-like or `url`).
 - [stylelint-no-unsupported-browser-features](https://www.npmjs.com/package/stylelint-no-unsupported-browser-features) - Disallow CSS that is unsupported by the browsers you're targeting.
 - [stylelint-no-unused-selectors](https://www.npmjs.com/package/stylelint-no-unused-selectors) - Disallow unused selectors.
-- [stylelint-order](https://www.npmjs.com/package/stylelint-order) - Order things like properties.
-- [stylelint-plugin-defensive-css](https://www.npmjs.com/package/stylelint-plugin-defensive-css) - A Stylelint plugin for enforcing defensive CSS best practices.
+- [stylelint-order](https://www.npmjs.com/package/stylelint-order) - Enforce a specific order for things like properties (Pack).
+- [stylelint-plugin-defensive-css](https://www.npmjs.com/package/stylelint-plugin-defensive-css) - Enforce defensive CSS best practices (Pack).
 - [stylelint-plugin-ecss](https://www.npmjs.com/package/stylelint-plugin-ecss) - Enforce Enduring CSS architecture.
-- [stylelint-plugin-logical-css](https://www.npmjs.com/package/stylelint-plugin-logical-css) - A Stylelint plugin to enforce logical CSS properties, values and units.
+- [stylelint-plugin-logical-css](https://www.npmjs.com/package/stylelint-plugin-logical-css) - Enforce logical CSS properties, values and units (Pack).
 - [stylelint-react-native](https://www.npmjs.com/package/stylelint-react-native) - Enforce React Native rules (Pack).
 - [stylelint-rem-over-px](https://www.npmjs.com/package/stylelint-rem-over-px) - Enforce `rem` units over `px` units.
 - [stylelint-rscss](https://www.npmjs.com/package/stylelint-rscss) - Enforce RSCSS conventions (Pack).
 - [stylelint-sass-render-errors](https://www.npmjs.com/package/stylelint-sass-render-errors) - Display Sass render errors and deprecations.
 - [stylelint-scales](https://www.npmjs.com/package/stylelint-scales) - Enforce scales for numeric values (Pack).
-- [stylelint-scss](https://www.npmjs.com/package/stylelint-scss) - SCSS-specific custom rules (Pack).
+- [stylelint-scss](https://www.npmjs.com/package/stylelint-scss) - Enforce SCSS-specific conventions (Pack).
 - [stylelint-selector-bem-pattern](https://www.npmjs.com/package/stylelint-selector-bem-pattern) - Enforce BEM patterns for selectors.
 - [stylelint-selector-no-empty](https://www.npmjs.com/package/stylelint-selector-no-empty) - Disallow empty selectors.
 - [stylelint-selector-tag-no-without-class](https://www.npmjs.com/package/stylelint-selector-tag-no-without-class) - Disallow certain tags without a class qualifier in selectors.
-- [stylelint-stylus](https://www.npmjs.com/package/stylelint-stylus) - Stylelint plugin for Stylus.
+- [stylelint-stylus](https://www.npmjs.com/package/stylelint-stylus) - Enforce Stylus-specific conventions.
 - [stylelint-suitcss](https://www.npmjs.com/package/stylelint-suitcss) - Enforce SUITCSS conventions (Pack).
 - [stylelint-use-logical-spec](https://www.npmjs.com/package/stylelint-use-logical-spec) - Enforce usage of logical properties and values.
 - [stylelint-use-nesting](https://www.npmjs.com/package/stylelint-use-nesting) - Enforce nesting when it is possible.

@@ -29,17 +29,17 @@
 
 ## Configs
 
-- [stylelint-config-prettier-scss](https://github.com/prettier/stylelint-config-prettier-scss) - Turns off conflicting rules when using Prettier for SCSS.
-- [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier) - Turns off conflicting rules when using Prettier for CSS.
-- [stylelint-config-primer](https://github.com/primer/stylelint-config-primer) - The GitHub shareable config.
-- [stylelint-config-rational-order](https://github.com/constverum/stylelint-config-rational-order) - Sorts related property declarations by grouping together in the rational order.
-- [stylelint-config-recess-order](https://github.com/stormwarning/stylelint-config-recess-order) - Sorts CSS properties the way Recess did and Bootstrap does.
-- [stylelint-config-recommended-vue](https://github.com/ota-meshi/stylelint-config-recommended-vue) - The recommended shareable Vue config for Stylelint.
-- [stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) - Sass guidelines config.
-- [stylelint-config-standard-scss](https://github.com/stylelint-scss/stylelint-config-standard-scss) - Standard config for SCSS.
-- [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard) - Standard config for CSS.
-- [stylelint-config-wikimedia](https://github.com/wikimedia/stylelint-config-wikimedia) - Wikimedia CSS Coding Standards shareable config.
-- [stylelint-config-wordpress](https://github.com/WordPress-Coding-Standards/stylelint-config-wordpress) - WordPress CSS Coding Standards shareable config.
+- [@primer/stylelint-config](https://www.npmjs.com/package/@primer/stylelint-config) - The GitHub shareable config.
+- [@wordpress/stylelint-config](https://www.npmjs.com/package/@wordpress/stylelint-config) - WordPress CSS Coding Standards shareable config.
+- [stylelint-config-prettier-scss](https://www.npmjs.com/package/stylelint-config-prettier-scss) - Turns off conflicting rules when using Prettier for SCSS.
+- [stylelint-config-prettier](https://www.npmjs.com/package/stylelint-config-prettier) - Turns off conflicting rules when using Prettier for CSS.
+- [stylelint-config-rational-order](https://www.npmjs.com/package/stylelint-config-rational-order) - Sorts related property declarations by grouping together in the rational order.
+- [stylelint-config-recess-order](https://www.npmjs.com/package/stylelint-config-recess-order) - Sorts CSS properties the way Recess did and Bootstrap does.
+- [stylelint-config-recommended-vue](https://www.npmjs.com/package/stylelint-config-recommended-vue) - The recommended shareable Vue config for Stylelint.
+- [stylelint-config-sass-guidelines](https://www.npmjs.com/package/stylelint-config-sass-guidelines) - Sass guidelines config.
+- [stylelint-config-standard-scss](https://www.npmjs.com/package/stylelint-config-standard-scss) - Standard config for SCSS.
+- [stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard) - Standard config for CSS.
+- [stylelint-config-wikimedia](https://www.npmjs.com/package/stylelint-config-wikimedia) - Wikimedia CSS Coding Standards shareable config.
 
 ## Custom syntaxes
 
@@ -67,69 +67,69 @@
 
 ## Formatters
 
-- [stylelint-checkstyle-formatter](https://github.com/davidtheclark/stylelint-checkstyle-formatter) - Output Checkstyle XML reports.
-- [stylelint-codeframe-formatter](https://github.com/bencergazda/stylelint-codeframe-formatter) - Output codeframe errors and warnings.
-- [stylelint-formatter-github](https://github.com/hipstersmoothie/stylelint-formatter-github) - Output errors and warnings directly in GitHub pull requests.
+- [stylelint-checkstyle-formatter](https://www.npmjs.com/package/stylelint-checkstyle-formatter) - Output Checkstyle XML reports.
+- [stylelint-codeframe-formatter](https://www.npmjs.com/package/stylelint-codeframe-formatter) - Output codeframe errors and warnings.
+- [stylelint-formatter-github](https://www.npmjs.com/package/stylelint-formatter-github) - Output errors and warnings directly in GitHub pull requests.
 
 ## Plugins
 
-- [@isnotdefined/stylelint-plugin](https://github.com/isnotdefinedcom/stylelint-plugin) - Disallow obsolete CSS and enforce unit steps (Pack).
-- [stylelint-8-point-grid](https://github.com/dcrtantuco/stylelint-8-point-grid) - Enforce an 8-point grid.
-- [stylelint-a11y](https://github.com/YozhikM/stylelint-a11y) - Enforce accessibility standards (Pack).
-- [stylelint-at-rule-no-children](https://github.com/adityavm/stylelint-at-rule-no-children) - Disallow block rule declarations inside at-rules.
-- [stylelint-color-format](https://github.com/filipekiss/stylelint-color-format) - Convert HEX colors to either RGB or HSL.
-- [stylelint-css-modules-no-global-scoped-selector](https://github.com/lmichelin/stylelint-css-modules-no-global-scoped-selector) - Disallow global-scoped selectors in CSS Modules.
-- [stylelint-css-modules](https://github.com/juanca/stylelint-css-modules) - Enforce CSS modules architecture (Pack).
-- [stylelint-csstree-validator](https://github.com/csstree/stylelint-validator) - Validate CSS values to match W3C specs and browsers extensions.
-- [stylelint-declaration-block-no-ignored-properties](https://github.com/kristerkari/stylelint-declaration-block-no-ignored-properties) - Disallow property values that are ignored.
-- [stylelint-declaration-strict-value](https://github.com/AndyOGo/stylelint-declaration-strict-value) - Enforce variables, functions or keywords for the value of specific properties.
-- [stylelint-file-max-lines](https://github.com/yixiaojiu/stylelint-file-max-lines) - Limit a maximum number of lines per file.
-- [stylelint-force-app-name-prefix](https://github.com/SunHuawei/stylelint-force-app-name-prefix/) - Enforce app name prefix for rules.
-- [stylelint-gamut](https://github.com/fpetrakov/stylelint-gamut) - Enforce standard different color spaces (Pack).
-- [stylelint-group-selectors](https://github.com/ssivanatarajan/stylelint-group-selectors) - Group selectors that have the same set of properties and values.
-- [stylelint-high-performance-animation](https://github.com/kristerkari/stylelint-high-performance-animation) - Avoid low-performance animation and transition properties.
-- [stylelint-images](https://github.com/ramasilveyra/stylelint-images) - Enforce good performance and avoid mistakes with images (Pack).
-- [stylelint-itcss](https://github.com/KamiKillertO/stylelint-itcss) - Enforce ITCSS architecture (Pack).
-- [stylelint-max-lines](https://github.com/dkrnl/stylelint-max-lines) - Limit the number of lines in a source.
-- [stylelint-media-use-custom-media](https://github.com/csstools/stylelint-media-use-custom-media) - Enforce usage of custom media queries.
-- [stylelint-no-browser-hacks](https://github.com/Slamdunk/stylelint-no-browser-hacks) - Disallow browser hacks that are irrelevant to the browsers you are targeting.
-- [stylelint-no-indistinguishable-colors](https://github.com/ierhyna/stylelint-no-indistinguishable-colors) - Disallow colors that are suspiciously close to being identical.
-- [stylelint-no-nested-media](https://github.com/dkrnl/stylelint-no-nested-media) - Disallow nested `@media` rules.
-- [stylelint-no-restricted-syntax](https://github.com/niksy/stylelint-no-restricted-syntax) - Disallow specified syntax.
-- [stylelint-no-unresolved-module](https://github.com/niksy/stylelint-no-unresolved-module) - Disallow unresolved imports (import-like or `url`).
-- [stylelint-no-unsupported-browser-features](https://github.com/ismay/stylelint-no-unsupported-browser-features) - Disallow CSS that is unsupported by the browsers you're targeting.
-- [stylelint-no-unused-selectors](https://github.com/nodaguti/stylelint-no-unused-selectors) - Disallow unused selectors.
-- [stylelint-order](https://github.com/hudochenkov/stylelint-order) - Order things like properties.
-- [stylelint-plugin-defensive-css](https://github.com/yuschick/stylelint-plugin-defensive-css) - A Stylelint plugin for enforcing defensive CSS best practices.
-- [stylelint-plugin-ecss](https://github.com/tyankatsu0105/stylelint-plugin-ecss) - Enforce Enduring CSS architecture.
-- [stylelint-plugin-logical-css](https://github.com/yuschick/stylelint-plugin-logical-css) - A Stylelint plugin to enforce logical CSS properties, values and units.
-- [stylelint-react-native](https://github.com/kristerkari/stylelint-react-native) - Enforce React Native rules (Pack).
-- [stylelint-rem-over-px](https://github.com/a-tokyo/stylelint-rem-over-px) - Enforce `rem` units over `px` units.
-- [stylelint-rscss](https://github.com/rstacruz/stylelint-rscss) - Enforce RSCSS conventions (Pack).
-- [stylelint-sass-render-errors](https://github.com/niksy/stylelint-sass-render-errors) - Display Sass render errors and deprecations.
-- [stylelint-scales](https://github.com/jeddy3/stylelint-scales) - Enforce scales for numeric values (Pack).
-- [stylelint-scss](https://github.com/kristerkari/stylelint-scss) - SCSS-specific custom rules (Pack).
-- [stylelint-selector-bem-pattern](https://github.com/davidtheclark/stylelint-selector-bem-pattern) - Enforce BEM patterns for selectors.
-- [stylelint-selector-no-empty](https://github.com/ssivanatarajan/stylelint-selector-no-empty) - Disallow empty selectors.
-- [stylelint-selector-tag-no-without-class](https://github.com/Moxio/stylelint-selector-tag-no-without-class) - Disallow certain tags without a class qualifier in selectors.
-- [stylelint-stylistic](https://github.com/stylelint-stylistic/stylelint-stylistic) - A collection of stylistic rules that have been removed from Stylelint@16.
-- [stylelint-stylus](https://github.com/stylus/stylelint-stylus) - Stylelint plugin for Stylus.
-- [stylelint-suitcss](https://github.com/suitcss/stylelint-suitcss) - Enforce SUITCSS conventions (Pack).
-- [stylelint-use-logical-spec](https://github.com/Jordan-Hall/stylelint-use-logical-spec) - Enforce usage of logical properties and values.
-- [stylelint-use-nesting](https://github.com/csstools/stylelint-use-nesting) - Enforce nesting when it is possible.
-- [stylelint-value-no-exposed-custom-properties](https://github.com/denisraslov/stylelint-value-no-exposed-custom-properties) - Disallow usage of exposed custom properties.
-- [stylelint-value-no-unknown-custom-properties](https://github.com/csstools/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
-- [stylelint-z-index-value-constraint](https://github.com/kristerkari/stylelint-z-index-value-constraint) - Specify minimum and maximum constraint value for z-index.
+- [@isnotdefined/stylelint-plugin](https://www.npmjs.com/package/@isnotdefined/stylelint-plugin) - Disallow obsolete CSS and enforce unit steps (Pack).
+- [@stylistic/stylelint-plugin](https://www.npmjs.com/package/@stylistic/stylelint-plugin) - Enforce stylistic conventions by using the rules removed in Stylelint 16.0.0 (Pack)
+- [stylelint-8-point-grid](https://www.npmjs.com/package/stylelint-8-point-grid) - Enforce an 8-point grid.
+- [stylelint-a11y](https://www.npmjs.com/package/stylelint-a11y) - Enforce accessibility standards (Pack).
+- [stylelint-at-rule-no-children](https://www.npmjs.com/package/stylelint-at-rule-no-children) - Disallow block rule declarations inside at-rules.
+- [stylelint-color-format](https://www.npmjs.com/package/stylelint-color-format) - Enforce HEX, RGB or HSL colors.
+- [stylelint-css-modules-no-global-scoped-selector](https://www.npmjs.com/package/stylelint-css-modules-no-global-scoped-selector) - Disallow global-scoped selectors in CSS Modules.
+- [stylelint-css-modules](https://www.npmjs.com/package/stylelint-css-modules) - Enforce CSS modules architecture (Pack).
+- [stylelint-csstree-validator](https://www.npmjs.com/package/stylelint-csstree-validator) - Validate CSS values to match W3C specs and browsers extensions.
+- [stylelint-declaration-block-no-ignored-properties](https://www.npmjs.com/package/stylelint-declaration-block-no-ignored-properties) - Disallow property values that are ignored.
+- [stylelint-declaration-strict-value](https://www.npmjs.com/package/stylelint-declaration-strict-value) - Enforce variables, functions or keywords for the value of specific properties.
+- [stylelint-file-max-lines](https://www.npmjs.com/package/stylelint-file-max-lines) - Limit a maximum number of lines per file.
+- [stylelint-force-app-name-prefix](https://www.npmjs.com/package/stylelint-force-app-name-prefix) - Enforce app name prefix for rules.
+- [stylelint-gamut](https://www.npmjs.com/package/stylelint-gamut) - Enforce standard different color spaces (Pack).
+- [stylelint-group-selectors](https://www.npmjs.com/package/stylelint-group-selectors) - Group selectors that have the same set of properties and values.
+- [stylelint-high-performance-animation](https://github.com/kristerkari/stylelint-high-performance-animation) - Disallow low-performance animation and transition properties.
+- [stylelint-images](https://www.npmjs.com/package/stylelint-images) - Enforce good performance and avoid mistakes with images (Pack).
+- [stylelint-itcss](https://www.npmjs.com/package/stylelint-itcss) - Enforce ITCSS architecture (Pack).
+- [stylelint-max-lines](https://www.npmjs.com/package/stylelint-max-lines) - Limit the number of lines in a source.
+- [stylelint-media-use-custom-media](https://www.npmjs.com/package/stylelint-media-use-custom-media) - Enforce usage of custom media queries.
+- [stylelint-no-browser-hacks](https://www.npmjs.com/package/stylelint-no-browser-hacks) - Disallow browser hacks that are irrelevant to the browsers you are targeting.
+- [stylelint-no-indistinguishable-colors](https://www.npmjs.com/package/stylelint-no-indistinguishable-colors) - Disallow colors that are suspiciously close to being identical.
+- [stylelint-no-nested-media](https://www.npmjs.com/package/stylelint-no-nested-media) - Disallow nested `@media` rules.
+- [stylelint-no-restricted-syntax](https://www.npmjs.com/package/stylelint-no-restricted-syntax) - Disallow specified syntax.
+- [stylelint-no-unresolved-module](https://www.npmjs.com/package/stylelint-no-unresolved-module) - Disallow unresolved imports (import-like or `url`).
+- [stylelint-no-unsupported-browser-features](https://www.npmjs.com/package/stylelint-no-unsupported-browser-features) - Disallow CSS that is unsupported by the browsers you're targeting.
+- [stylelint-no-unused-selectors](https://www.npmjs.com/package/stylelint-no-unused-selectors) - Disallow unused selectors.
+- [stylelint-order](https://www.npmjs.com/package/stylelint-order) - Enforce a specific order for things like properties (Pack).
+- [stylelint-plugin-defensive-css](https://www.npmjs.com/package/stylelint-plugin-defensive-css) - Enforce defensive CSS best practices (Pack).
+- [stylelint-plugin-ecss](https://www.npmjs.com/package/stylelint-plugin-ecss) - Enforce Enduring CSS architecture.
+- [stylelint-plugin-logical-css](https://www.npmjs.com/package/stylelint-plugin-logical-css) - Enforce logical CSS properties, values and units (Pack).
+- [stylelint-react-native](https://www.npmjs.com/package/stylelint-react-native) - Enforce React Native rules (Pack).
+- [stylelint-rem-over-px](https://www.npmjs.com/package/stylelint-rem-over-px) - Enforce `rem` units over `px` units.
+- [stylelint-rscss](https://www.npmjs.com/package/stylelint-rscss) - Enforce RSCSS conventions (Pack).
+- [stylelint-sass-render-errors](https://www.npmjs.com/package/stylelint-sass-render-errors) - Display Sass render errors and deprecations.
+- [stylelint-scales](https://www.npmjs.com/package/stylelint-scales) - Enforce scales for numeric values (Pack).
+- [stylelint-scss](https://www.npmjs.com/package/stylelint-scss) - Enforce SCSS-specific conventions (Pack).
+- [stylelint-selector-bem-pattern](https://www.npmjs.com/package/stylelint-selector-bem-pattern) - Enforce BEM patterns for selectors.
+- [stylelint-selector-no-empty](https://www.npmjs.com/package/stylelint-selector-no-empty) - Disallow empty selectors.
+- [stylelint-selector-tag-no-without-class](https://www.npmjs.com/package/stylelint-selector-tag-no-without-class) - Disallow certain tags without a class qualifier in selectors.
+- [stylelint-stylus](https://www.npmjs.com/package/stylelint-stylus) - Enforce Stylus-specific conventions.
+- [stylelint-suitcss](https://www.npmjs.com/package/stylelint-suitcss) - Enforce SUITCSS conventions (Pack).
+- [stylelint-use-logical-spec](https://www.npmjs.com/package/stylelint-use-logical-spec) - Enforce usage of logical properties and values.
+- [stylelint-use-nesting](https://www.npmjs.com/package/stylelint-use-nesting) - Enforce nesting when it is possible.
+- [stylelint-value-no-exposed-custom-properties](https://www.npmjs.com/package/stylelint-value-no-exposed-custom-properties) - Disallow usage of exposed custom properties.
+- [stylelint-value-no-unknown-custom-properties](https://www.npmjs.com/package/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
+- [stylelint-z-index-value-constraint](https://www.npmjs.com/package/stylelint-z-index-value-constraint) - Specify minimum and maximum constraint value for z-index.
 
 ## Task runners
 
-- [broccoli-stylelint](https://github.com/billybonks/broccoli-stylelint) - Broccoli plugin.
-- [ember-cli-stylelint](https://github.com/billybonks/ember-cli-stylelint) - Ember CLI plugin.
-- [grunt-stylelint](https://github.com/wikimedia/grunt-stylelint) - Grunt plugin.
-- [gulp-stylelint](https://github.com/olegskl/gulp-stylelint) - Gulp plugin.
-- [jest-runner-stylelint](https://github.com/keplersj/jest-runner-stylelint) - Jest plugin.
-- [nx-stylelint](https://github.com/Phillip9587/nx-stylelint) - Nx plugin.
-- [stylelint-webpack-plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin) - Webpack plugin.
+- [broccoli-stylelint](https://www.npmjs.com/package/broccoli-stylelint) - Broccoli plugin.
+- [ember-cli-stylelint](https://www.npmjs.com/package/ember-cli-stylelint) - Ember CLI plugin.
+- [grunt-stylelint](https://www.npmjs.com/package/grunt-stylelint) - Grunt plugin.
+- [gulp-stylelint](https://www.npmjs.com/package/gulp-stylelint) - Gulp plugin.
+- [jest-runner-stylelint](https://www.npmjs.com/package/jest-runner-stylelint) - Jest plugin.
+- [nx-stylelint](https://www.npmjs.com/package/nx-stylelint) - Nx plugin.
+- [stylelint-webpack-plugin](https://www.npmjs.com/package/stylelint-webpack-plugin) - Webpack plugin.
 
 ## Testing
 
@@ -139,8 +139,8 @@
 ## Tools
 
 - [pre-commit-stylelint](https://github.com/thibaudcolas/pre-commit-stylelint) - Mirrors all releases for the pre-commit hooks framework.
-- [stylelint-define-config](https://github.com/stylelint-types/stylelint-define-config) - Provide a `defineConfig` function for `stylelint.config.js` files.
-- [stylelint-find-new-rules](https://github.com/Donov4n/stylelint-find-new-rules) - Find Stylelint rules that are not configured in your Stylelint config.
+- [stylelint-define-config](https://www.npmjs.com/package/stylelint-define-config) - Provide a `defineConfig` function for `stylelint.config.js` files.
+- [stylelint-find-new-rules](https://www.npmjs.com/package/stylelint-find-new-rules) - Find Stylelint rules that are not configured in your Stylelint config.
 
 ## Tutorials
 

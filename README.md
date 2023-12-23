@@ -75,7 +75,7 @@
 ## Plugins
 
 - [@isnotdefined/stylelint-plugin](https://www.npmjs.com/package/@isnotdefined/stylelint-plugin) - Disallow obsolete CSS and enforce unit steps (Pack).
-- [@stylistic/stylelint-plugin](https://www.npmjs.com/package/@stylistic/stylelint-plugin) - Enforce stylistic conventions by using the rules removed in Stylelint 16.0.0 (Pack)
+- [@stylistic/stylelint-plugin](https://www.npmjs.com/package/@stylistic/stylelint-plugin) - Enforce stylistic conventions by using the rules removed in Stylelint 16.0.0 (Pack).
 - [stylelint-8-point-grid](https://www.npmjs.com/package/stylelint-8-point-grid) - Enforce an 8-point grid.
 - [stylelint-a11y](https://www.npmjs.com/package/stylelint-a11y) - Enforce accessibility standards (Pack).
 - [stylelint-at-rule-no-children](https://www.npmjs.com/package/stylelint-at-rule-no-children) - Disallow block rule declarations inside at-rules.

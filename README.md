@@ -30,6 +30,7 @@
 ## Configs
 
 - [@primer/stylelint-config](https://www.npmjs.com/package/@primer/stylelint-config) - The GitHub shareable config.
+- [@stylistic/stylelint-config](https://www.npmjs.com/package/@stylistic/stylelint-config) - The stylistic shareable config for Stylelint.
 - [@wordpress/stylelint-config](https://www.npmjs.com/package/@wordpress/stylelint-config) - WordPress CSS Coding Standards shareable config.
 - [stylelint-config-prettier-scss](https://www.npmjs.com/package/stylelint-config-prettier-scss) - Turns off conflicting rules when using Prettier for SCSS.
 - [stylelint-config-prettier](https://www.npmjs.com/package/stylelint-config-prettier) - Turns off conflicting rules when using Prettier for CSS.

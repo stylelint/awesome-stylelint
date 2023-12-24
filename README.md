@@ -30,6 +30,7 @@
 ## Configs
 
 - [@primer/stylelint-config](https://www.npmjs.com/package/@primer/stylelint-config) - The GitHub shareable config.
+- [@stylistic/stylelint-config](https://www.npmjs.com/package/@stylistic/stylelint-config) - The stylistic shareable config for `@stylistic/stylelint-plugin`.
 - [@wordpress/stylelint-config](https://www.npmjs.com/package/@wordpress/stylelint-config) - WordPress CSS Coding Standards shareable config.
 - [stylelint-config-prettier-scss](https://www.npmjs.com/package/stylelint-config-prettier-scss) - Turns off conflicting rules when using Prettier for SCSS.
 - [stylelint-config-prettier](https://www.npmjs.com/package/stylelint-config-prettier) - Turns off conflicting rules when using Prettier for CSS.
@@ -74,7 +75,7 @@
 ## Plugins
 
 - [@isnotdefined/stylelint-plugin](https://www.npmjs.com/package/@isnotdefined/stylelint-plugin) - Disallow obsolete CSS and enforce unit steps (Pack).
-- [@stylistic/stylelint-plugin](https://www.npmjs.com/package/@stylistic/stylelint-plugin) - Enforce stylistic conventions by using the rules removed in Stylelint 16.0.0 (Pack)
+- [@stylistic/stylelint-plugin](https://www.npmjs.com/package/@stylistic/stylelint-plugin) - Enforce stylistic conventions by using the rules removed in Stylelint 16.0.0 (Pack).
 - [stylelint-8-point-grid](https://www.npmjs.com/package/stylelint-8-point-grid) - Enforce an 8-point grid.
 - [stylelint-a11y](https://www.npmjs.com/package/stylelint-a11y) - Enforce accessibility standards (Pack).
 - [stylelint-at-rule-no-children](https://www.npmjs.com/package/stylelint-at-rule-no-children) - Disallow block rule declarations inside at-rules.

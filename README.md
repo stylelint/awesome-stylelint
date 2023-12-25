@@ -2,7 +2,7 @@
 
 # Awesome Stylelint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://raw.githubusercontent.com/stylelint/stylelint/master/identity/stylelint-icon-white-512.png" width="160" align="right" alt="stylelint">](https://stylelint.io/)
+<a href="https://stylelint.io/"><img src="https://raw.githubusercontent.com/stylelint/stylelint/main/identity/stylelint-icon-white-512.png" width="160" align="right" alt="Stylelint" /></a>
 
 > A list of awesome Stylelint configs, plugins, integrations etc.
 

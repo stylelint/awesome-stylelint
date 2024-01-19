@@ -32,8 +32,12 @@
 - [@primer/stylelint-config](https://www.npmjs.com/package/@primer/stylelint-config) - The GitHub shareable config.
 - [@stylistic/stylelint-config](https://www.npmjs.com/package/@stylistic/stylelint-config) - The stylistic shareable config for `@stylistic/stylelint-plugin`.
 - [@wordpress/stylelint-config](https://www.npmjs.com/package/@wordpress/stylelint-config) - WordPress CSS Coding Standards shareable config.
+- [stylelint-config-clean-order](https://www.npmjs.com/package/stylelint-config-clean-order) - Order styles with stylelint-order.
+- [stylelint-config-hudochenkov](https://www.npmjs.com/package/stylelint-config-hudochenkov) - Personal configs use stylelint-order.
+- [stylelint-config-idiomatic-order](https://www.npmjs.com/package/stylelint-config-idiomatic-order) - Order styles based on idiomatic-css.
 - [stylelint-config-prettier-scss](https://www.npmjs.com/package/stylelint-config-prettier-scss) - Turns off conflicting rules when using Prettier for SCSS.
 - [stylelint-config-prettier](https://www.npmjs.com/package/stylelint-config-prettier) - Turns off conflicting rules when using Prettier for CSS.
+- [stylelint-config-property-sort-order-smacss](https://www.npmjs.com/package/stylelint-config-property-sort-order-smacss) - Property Sort Ordering based on the SMACSS methodology.
 - [stylelint-config-rational-order](https://www.npmjs.com/package/stylelint-config-rational-order) - Sorts related property declarations by grouping together in the rational order.
 - [stylelint-config-recess-order](https://www.npmjs.com/package/stylelint-config-recess-order) - Sorts CSS properties the way Recess did and Bootstrap does.
 - [stylelint-config-recommended-vue](https://www.npmjs.com/package/stylelint-config-recommended-vue) - The recommended shareable Vue config for Stylelint.

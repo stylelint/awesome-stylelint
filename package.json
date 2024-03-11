@@ -2,6 +2,8 @@
   "name": "awesome-stylelint",
   "version": "0.0.0",
   "private": true,
+  "description": "A list of awesome Stylelint",
+  "repository": "https://github.com/stylelint/awesome-stylelint",
   "scripts": {
     "test": "awesome-lint"
   },

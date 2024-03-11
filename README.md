@@ -72,6 +72,7 @@
 
 ## Formatters
 
+- [stylelint-actions-formatters](https://www.npmjs.com/package/stylelint-actions-formatters) - Output errors and warnings for GitHub Actions.
 - [stylelint-checkstyle-formatter](https://www.npmjs.com/package/stylelint-checkstyle-formatter) - Output Checkstyle XML reports.
 - [stylelint-codeframe-formatter](https://www.npmjs.com/package/stylelint-codeframe-formatter) - Output codeframe errors and warnings.
 - [stylelint-formatter-github](https://www.npmjs.com/package/stylelint-formatter-github) - Output errors and warnings directly in GitHub pull requests.

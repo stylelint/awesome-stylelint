@@ -76,6 +76,7 @@
 - [stylelint-codeframe-formatter](https://www.npmjs.com/package/stylelint-codeframe-formatter) - Output codeframe errors and warnings.
 - [stylelint-formatter-github](https://www.npmjs.com/package/stylelint-formatter-github) - Output errors and warnings directly in GitHub pull requests.
 - [stylelint-formatter-gitlab-code-quality-report](https://www.npmjs.com/package/stylelint-formatter-gitlab-code-quality-report) - Output errors and warnings as a GitLab Code Quality report (artifact).
+- [stylelint-formatter-pretty](https://www.npmjs.com/package/stylelint-formatter-pretty) - A pretty formatter for terminals.
 
 ## Plugins
 

@@ -29,6 +29,7 @@
 
 ## Configs
 
+- [@archoleat/stylelint-config-extended-scss](https://www.npmjs.com/package/@archoleat/stylelint-config-extended-scss) - Archoleat config for SCSS with property sorting.
 - [@primer/stylelint-config](https://www.npmjs.com/package/@primer/stylelint-config) - The GitHub shareable config.
 - [@stylistic/stylelint-config](https://www.npmjs.com/package/@stylistic/stylelint-config) - The stylistic shareable config for `@stylistic/stylelint-plugin`.
 - [@wordpress/stylelint-config](https://www.npmjs.com/package/@wordpress/stylelint-config) - WordPress CSS Coding Standards shareable config.

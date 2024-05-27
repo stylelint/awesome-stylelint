@@ -124,6 +124,7 @@
 - [stylelint-selector-tag-no-without-class](https://www.npmjs.com/package/stylelint-selector-tag-no-without-class) - Disallow certain tags without a class qualifier in selectors.
 - [stylelint-stylus](https://www.npmjs.com/package/stylelint-stylus) - Enforce Stylus-specific conventions.
 - [stylelint-suitcss](https://www.npmjs.com/package/stylelint-suitcss) - Enforce SUITCSS conventions (Pack).
+- [stylelint-transform-function-no-whitespace](https://www.npmjs.com/package/stylelint-transform-function-no-whitespace) - Disallow whitespace between transform functions and their parentheses.
 - [stylelint-use-logical-spec](https://www.npmjs.com/package/stylelint-use-logical-spec) - Enforce usage of logical properties and values.
 - [stylelint-use-nesting](https://www.npmjs.com/package/stylelint-use-nesting) - Enforce nesting when it is possible.
 - [stylelint-value-no-exposed-custom-properties](https://www.npmjs.com/package/stylelint-value-no-exposed-custom-properties) - Disallow usage of exposed custom properties.

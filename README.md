@@ -45,6 +45,7 @@
 - [stylelint-config-sass-guidelines](https://www.npmjs.com/package/stylelint-config-sass-guidelines) - Sass guidelines config.
 - [stylelint-config-standard-scss](https://www.npmjs.com/package/stylelint-config-standard-scss) - Standard config for SCSS.
 - [stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard) - Standard config for CSS.
+- [stylelint-config-two-dash-bem](https://www.npmjs.com/package/stylelint-config-two-dash-bem) - BEM Convention zero dependency rule enforcing Two Dashes style for Stylelint.
 - [stylelint-config-wikimedia](https://www.npmjs.com/package/stylelint-config-wikimedia) - Wikimedia CSS Coding Standards shareable config.
 
 ## Custom syntaxes

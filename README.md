@@ -89,8 +89,6 @@
 - [stylelint-css-modules](https://www.npmjs.com/package/stylelint-css-modules) - Enforce CSS modules architecture (Pack).
 - [stylelint-csstree-validator](https://www.npmjs.com/package/stylelint-csstree-validator) - Validate CSS values to match W3C specs and browsers extensions.
 - [stylelint-declaration-block-no-ignored-properties](https://www.npmjs.com/package/stylelint-declaration-block-no-ignored-properties) - Disallow property values that are ignored.
-- [stylelint-file-max-lines](https://www.npmjs.com/package/stylelint-file-max-lines) - Limit a maximum number of lines per file.
-- [stylelint-group-selectors](https://www.npmjs.com/package/stylelint-group-selectors) - Group selectors that have the same set of properties and values.
 - [stylelint-high-performance-animation](https://github.com/kristerkari/stylelint-high-performance-animation) - Disallow low-performance animation and transition properties.
 - [stylelint-images](https://www.npmjs.com/package/stylelint-images) - Enforce good performance and avoid mistakes with images (Pack).
 - [stylelint-no-restricted-syntax](https://www.npmjs.com/package/stylelint-no-restricted-syntax) - Disallow specified syntax.
@@ -105,19 +103,21 @@
 ### Style
 
 - [@stylistic/stylelint-plugin](https://www.npmjs.com/package/@stylistic/stylelint-plugin) - Enforce stylistic conventions by using the rules removed in Stylelint 16.0.0 (Pack).
+- [stylelint-file-max-lines](https://www.npmjs.com/package/stylelint-file-max-lines) - Limit a maximum number of lines per file.
 - [stylelint-force-app-name-prefix](https://www.npmjs.com/package/stylelint-force-app-name-prefix) - Enforce app name prefix for rules.
+- [stylelint-group-selectors](https://www.npmjs.com/package/stylelint-group-selectors) - Group selectors that have the same set of properties and values.
 - [stylelint-max-lines](https://www.npmjs.com/package/stylelint-max-lines) - Limit the number of lines in a source.
 - [stylelint-order](https://www.npmjs.com/package/stylelint-order) - Enforce a specific order for things like properties (Pack).
 - [stylelint-react-native](https://www.npmjs.com/package/stylelint-react-native) - Enforce React Native rules (Pack).
 - [stylelint-transform-function-no-whitespace](https://www.npmjs.com/package/stylelint-transform-function-no-whitespace) - Disallow whitespace between transform functions and their parentheses.
 
-### Nesting, and specificity
+### Nesting and specificity
 
 - [stylelint-at-rule-no-children](https://www.npmjs.com/package/stylelint-at-rule-no-children) - Disallow block rule declarations inside at-rules.
 - [stylelint-selector-tag-no-without-class](https://www.npmjs.com/package/stylelint-selector-tag-no-without-class) - Disallow certain tags without a class qualifier in selectors.
 - [stylelint-use-nesting](https://www.npmjs.com/package/stylelint-use-nesting) - Enforce nesting when it is possible.
 
-### Accesibility
+### Internationalization
 
 - [stylelint-plugin-logical-css](https://www.npmjs.com/package/stylelint-plugin-logical-css) - Enforce logical CSS properties, values and units (Pack).
 - [stylelint-use-logical-spec](https://www.npmjs.com/package/stylelint-use-logical-spec) - Enforce usage of logical properties and values.

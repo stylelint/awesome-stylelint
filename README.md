@@ -37,9 +37,7 @@
 - [stylelint-config-hudochenkov](https://www.npmjs.com/package/stylelint-config-hudochenkov) - Personal configs use stylelint-order.
 - [stylelint-config-idiomatic-order](https://www.npmjs.com/package/stylelint-config-idiomatic-order) - Order styles based on idiomatic-css.
 - [stylelint-config-prettier-scss](https://www.npmjs.com/package/stylelint-config-prettier-scss) - Turns off conflicting rules when using Prettier for SCSS.
-- [stylelint-config-prettier](https://www.npmjs.com/package/stylelint-config-prettier) - Turns off conflicting rules when using Prettier for CSS.
 - [stylelint-config-property-sort-order-smacss](https://www.npmjs.com/package/stylelint-config-property-sort-order-smacss) - Property Sort Ordering based on the SMACSS methodology.
-- [stylelint-config-rational-order](https://www.npmjs.com/package/stylelint-config-rational-order) - Sorts related property declarations by grouping together in the rational order.
 - [stylelint-config-recess-order](https://www.npmjs.com/package/stylelint-config-recess-order) - Sorts CSS properties the way Recess did and Bootstrap does.
 - [stylelint-config-recommended-vue](https://www.npmjs.com/package/stylelint-config-recommended-vue) - The recommended shareable Vue config for Stylelint.
 - [stylelint-config-sass-guidelines](https://www.npmjs.com/package/stylelint-config-sass-guidelines) - Sass guidelines config.
@@ -87,7 +85,6 @@
 - [@isnotdefined/stylelint-plugin](https://www.npmjs.com/package/@isnotdefined/stylelint-plugin) - Disallow obsolete CSS and enforce unit steps (Pack).
 - [@stylistic/stylelint-plugin](https://www.npmjs.com/package/@stylistic/stylelint-plugin) - Enforce stylistic conventions by using the rules removed in Stylelint 16.0.0 (Pack).
 - [stylelint-8-point-grid](https://www.npmjs.com/package/stylelint-8-point-grid) - Enforce an 8-point grid.
-- [stylelint-a11y](https://www.npmjs.com/package/stylelint-a11y) - Enforce accessibility standards (Pack).
 - [stylelint-at-rule-no-children](https://www.npmjs.com/package/stylelint-at-rule-no-children) - Disallow block rule declarations inside at-rules.
 - [stylelint-color-format](https://www.npmjs.com/package/stylelint-color-format) - Enforce HEX, RGB or HSL colors.
 - [stylelint-css-modules-no-global-scoped-selector](https://www.npmjs.com/package/stylelint-css-modules-no-global-scoped-selector) - Disallow global-scoped selectors in CSS Modules.
@@ -106,18 +103,14 @@
 - [stylelint-media-use-custom-media](https://www.npmjs.com/package/stylelint-media-use-custom-media) - Enforce usage of custom media queries.
 - [stylelint-no-browser-hacks](https://www.npmjs.com/package/stylelint-no-browser-hacks) - Disallow browser hacks that are irrelevant to the browsers you are targeting.
 - [stylelint-no-indistinguishable-colors](https://www.npmjs.com/package/stylelint-no-indistinguishable-colors) - Disallow colors that are suspiciously close to being identical.
-- [stylelint-no-nested-media](https://www.npmjs.com/package/stylelint-no-nested-media) - Disallow nested `@media` rules.
 - [stylelint-no-restricted-syntax](https://www.npmjs.com/package/stylelint-no-restricted-syntax) - Disallow specified syntax.
 - [stylelint-no-unresolved-module](https://www.npmjs.com/package/stylelint-no-unresolved-module) - Disallow unresolved imports (import-like or `url`).
 - [stylelint-no-unsupported-browser-features](https://www.npmjs.com/package/stylelint-no-unsupported-browser-features) - Disallow CSS that is unsupported by the browsers you're targeting.
-- [stylelint-no-unused-selectors](https://www.npmjs.com/package/stylelint-no-unused-selectors) - Disallow unused selectors.
 - [stylelint-order](https://www.npmjs.com/package/stylelint-order) - Enforce a specific order for things like properties (Pack).
 - [stylelint-plugin-defensive-css](https://www.npmjs.com/package/stylelint-plugin-defensive-css) - Enforce defensive CSS best practices (Pack).
-- [stylelint-plugin-ecss](https://www.npmjs.com/package/stylelint-plugin-ecss) - Enforce Enduring CSS architecture.
 - [stylelint-plugin-logical-css](https://www.npmjs.com/package/stylelint-plugin-logical-css) - Enforce logical CSS properties, values and units (Pack).
 - [stylelint-react-native](https://www.npmjs.com/package/stylelint-react-native) - Enforce React Native rules (Pack).
 - [stylelint-rem-over-px](https://www.npmjs.com/package/stylelint-rem-over-px) - Enforce `rem` units over `px` units.
-- [stylelint-rscss](https://www.npmjs.com/package/stylelint-rscss) - Enforce RSCSS conventions (Pack).
 - [stylelint-sass-render-errors](https://www.npmjs.com/package/stylelint-sass-render-errors) - Display Sass render errors and deprecations.
 - [stylelint-scales](https://www.npmjs.com/package/stylelint-scales) - Enforce scales for numeric values (Pack).
 - [stylelint-scss](https://www.npmjs.com/package/stylelint-scss) - Enforce SCSS-specific conventions (Pack).
@@ -129,7 +122,6 @@
 - [stylelint-transform-function-no-whitespace](https://www.npmjs.com/package/stylelint-transform-function-no-whitespace) - Disallow whitespace between transform functions and their parentheses.
 - [stylelint-use-logical-spec](https://www.npmjs.com/package/stylelint-use-logical-spec) - Enforce usage of logical properties and values.
 - [stylelint-use-nesting](https://www.npmjs.com/package/stylelint-use-nesting) - Enforce nesting when it is possible.
-- [stylelint-value-no-exposed-custom-properties](https://www.npmjs.com/package/stylelint-value-no-exposed-custom-properties) - Disallow usage of exposed custom properties.
 - [stylelint-value-no-unknown-custom-properties](https://www.npmjs.com/package/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
 - [stylelint-z-index-value-constraint](https://www.npmjs.com/package/stylelint-z-index-value-constraint) - Specify minimum and maximum constraint value for z-index.
 

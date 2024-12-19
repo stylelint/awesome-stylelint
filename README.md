@@ -20,6 +20,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [codacy-stylelint](https://github.com/codacy/codacy-stylelint) - Codacy integration.
 - [megalinter](https://megalinter.io) - Integrated into MegaLinter.
 - [putout](https://github.com/coderaiser/putout) - Integrated into Putout.
+- [Qlty plugin](https://github.com/qltysh/qlty/tree/main/qlty-plugins/plugins/linters/stylelint) - Qlty integration.
 - [reviewdog/action-stylelint](https://github.com/reviewdog/action-stylelint) - Reviewdog GitHub Action.
 
 ## Configs

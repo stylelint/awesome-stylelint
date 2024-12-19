@@ -152,6 +152,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 ## Tools
 
 - [pre-commit-stylelint](https://github.com/thibaudcolas/pre-commit-stylelint) - Mirrors all releases for the pre-commit hooks framework.
+- [stylelint-define-config](https://www.npmjs.com/package/stylelint-define-config) - Provide a `defineConfig` function for `stylelint.config.js` files.
 - [stylelint-find-new-rules](https://www.npmjs.com/package/stylelint-find-new-rules) - Find Stylelint rules that are not configured in your Stylelint config.
 
 ## Tutorials

@@ -27,9 +27,9 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 
 ### Custom syntaxes
 
+- [stylelint-config-recommended-vue](https://www.npmjs.com/package/stylelint-config-recommended-vue) - The recommended shareable Vue config for Stylelint.
 - [stylelint-config-sass-guidelines](https://www.npmjs.com/package/stylelint-config-sass-guidelines) - Sass guidelines config.
 - [stylelint-config-standard-scss](https://www.npmjs.com/package/stylelint-config-standard-scss) - Standard config for SCSS.
-- [stylelint-config-recommended-vue](https://www.npmjs.com/package/stylelint-config-recommended-vue) - The recommended shareable Vue config for Stylelint.
 
 ### Order
 

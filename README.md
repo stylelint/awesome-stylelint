@@ -56,6 +56,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [postcss-sass](https://www.npmjs.com/package/postcss-sass) - Sass.
 - [postcss-scss](https://www.npmjs.com/package/postcss-scss) - SCSS.
 - [postcss-styled-syntax](https://www.npmjs.com/package/postcss-styled-syntax) - Template literals.
+- [sugarss](https://www.npmjs.com/package/sugarss) - SugarSS.
 
 ## Editor integrations
 

@@ -63,9 +63,6 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [ale](https://github.com/dense-analysis/ale) - Vim plugin.
 - [coc-stylelint](https://github.com/neoclide/coc-stylelint) - Neovim. language server extension.
 - [flycheck](https://github.com/flycheck/flycheck) - Emacs extension.
-- [linter-stylelint](https://github.com/AtomLinter/linter-stylelint) - Atom plugin.
-- [null-ls](https://github.com/jose-elias-alvarez/null-ls.nvim/blob/main/doc/BUILTINS.md#stylelint-1) - Neovim plugin.
-- [sublimeLinter-contrib-stylelint_d](https://github.com/jo-sm/SublimeLinter-contrib-stylelint_d) - Sublime Text plugin as daemon.
 - [sublimeLinter-stylelint](https://github.com/SublimeLinter/SublimeLinter-stylelint) - Sublime Text plugin.
 - [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - VS Code extension.
 

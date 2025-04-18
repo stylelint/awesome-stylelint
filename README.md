@@ -87,7 +87,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 
 - [stylelint-no-browser-hacks](https://www.npmjs.com/package/stylelint-no-browser-hacks) - Disallow browser hacks that are irrelevant to the browsers you are targeting.
 - [stylelint-no-unsupported-browser-features](https://www.npmjs.com/package/stylelint-no-unsupported-browser-features) - Disallow CSS that is unsupported by the browsers you're targeting.
-- [stylelint-plugin-require-baseline](https://www.npmjs.com/package/stylelint-plugin-require-baseline) - Disallow CSS features not in Baseline.
+- [stylelint-plugin-use-baseline](https://www.npmjs.com/package/stylelint-plugin-use-baseline) - Disallow CSS features not in Baseline.
 
 ### Colors
 

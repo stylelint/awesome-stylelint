@@ -114,6 +114,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 
 - [stylelint-scss](https://www.npmjs.com/package/stylelint-scss) - Enforce SCSS-specific conventions (Pack).
 - [stylelint-stylus](https://www.npmjs.com/package/stylelint-stylus) - Enforce Stylus-specific conventions.
+- [@apostrophecms/stylelint-no-mixed-decls](https://www.npmjs.com/package/@apostrophecms/stylelint-no-mixed-decls) - Enfore Sass's [mixed-decls](https://sass-lang.com/documentation/breaking-changes/mixed-decls/) rule.
 
 ### Performance
 

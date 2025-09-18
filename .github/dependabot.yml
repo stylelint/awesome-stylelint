@@ -6,3 +6,5 @@ updates:
       interval: monthly
     labels:
       - 'pr: dependencies'
+    cooldown:
+      default-days: 7

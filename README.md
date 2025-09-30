@@ -132,16 +132,6 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [stylelint-scales](https://www.npmjs.com/package/stylelint-scales) - Enforce scales for numeric values (Pack).
 - [stylelint-value-no-unknown-custom-properties](https://www.npmjs.com/package/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
 
-## Task runners
-
-- [broccoli-stylelint](https://www.npmjs.com/package/broccoli-stylelint) - Broccoli plugin.
-- [ember-cli-stylelint](https://www.npmjs.com/package/ember-cli-stylelint) - Ember CLI plugin.
-- [grunt-stylelint](https://www.npmjs.com/package/grunt-stylelint) - Grunt plugin.
-- [gulp-stylelint](https://www.npmjs.com/package/gulp-stylelint) - Gulp plugin.
-- [jest-runner-stylelint](https://www.npmjs.com/package/jest-runner-stylelint) - Jest plugin.
-- [nx-stylelint](https://www.npmjs.com/package/nx-stylelint) - Nx plugin.
-- [stylelint-webpack-plugin](https://www.npmjs.com/package/stylelint-webpack-plugin) - Webpack plugin.
-
 ## Testing
 
 - [@morev/stylelint-testing-library](https://www.npmjs.com/package/@morev/stylelint-testing-library) - Platform agnostic solution for testing Stylelint plugins (works with `vitest`, `jest` or `node:test`).

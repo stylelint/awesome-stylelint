@@ -10,7 +10,6 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [Editor integrations](#editor-integrations)
 - [Formatters](#formatters)
 - [Plugins](#plugins)
-- [Task runners](#task-runners)
 - [Testing](#testing)
 - [Tools](#tools)
 - [Tutorials](#tutorials)

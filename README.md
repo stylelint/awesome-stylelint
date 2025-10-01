@@ -10,7 +10,6 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [Editor integrations](#editor-integrations)
 - [Formatters](#formatters)
 - [Plugins](#plugins)
-- [Task runners](#task-runners)
 - [Testing](#testing)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
@@ -131,16 +130,6 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [stylelint-no-restricted-syntax](https://www.npmjs.com/package/stylelint-no-restricted-syntax) - Disallow specified syntax.
 - [stylelint-scales](https://www.npmjs.com/package/stylelint-scales) - Enforce scales for numeric values (Pack).
 - [stylelint-value-no-unknown-custom-properties](https://www.npmjs.com/package/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
-
-## Task runners
-
-- [broccoli-stylelint](https://www.npmjs.com/package/broccoli-stylelint) - Broccoli plugin.
-- [ember-cli-stylelint](https://www.npmjs.com/package/ember-cli-stylelint) - Ember CLI plugin.
-- [grunt-stylelint](https://www.npmjs.com/package/grunt-stylelint) - Grunt plugin.
-- [gulp-stylelint](https://www.npmjs.com/package/gulp-stylelint) - Gulp plugin.
-- [jest-runner-stylelint](https://www.npmjs.com/package/jest-runner-stylelint) - Jest plugin.
-- [nx-stylelint](https://www.npmjs.com/package/nx-stylelint) - Nx plugin.
-- [stylelint-webpack-plugin](https://www.npmjs.com/package/stylelint-webpack-plugin) - Webpack plugin.
 
 ## Testing
 

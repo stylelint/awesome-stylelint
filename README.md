@@ -29,6 +29,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [stylelint-config-recommended-vue](https://www.npmjs.com/package/stylelint-config-recommended-vue) - The recommended shareable Vue config for Stylelint.
 - [stylelint-config-sass-guidelines](https://www.npmjs.com/package/stylelint-config-sass-guidelines) - Sass guidelines config.
 - [stylelint-config-standard-scss](https://www.npmjs.com/package/stylelint-config-standard-scss) - Standard config for SCSS.
+- [@dreamsicle.io/stylelint-config-tailwindcss](https://www.npmjs.com/package/@dreamsicle.io/stylelint-config-tailwindcss) - Tailwind CSS directives and functions.
 
 ### Order
 
@@ -56,7 +57,6 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [postcss-scss](https://www.npmjs.com/package/postcss-scss) - SCSS.
 - [postcss-styled-syntax](https://www.npmjs.com/package/postcss-styled-syntax) - Template literals.
 - [sugarss](https://www.npmjs.com/package/sugarss) - Whitespace-sensitive SugarSS.
-- [@dreamsicle.io/stylelint-config-tailwindcss](https://www.npmjs.com/package/@dreamsicle.io/stylelint-config-tailwindcss) - Tailwind CSS directives and functions.
 
 ## Editor integrations
 

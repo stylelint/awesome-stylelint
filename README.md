@@ -56,6 +56,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [postcss-scss](https://www.npmjs.com/package/postcss-scss) - SCSS.
 - [postcss-styled-syntax](https://www.npmjs.com/package/postcss-styled-syntax) - Template literals.
 - [sugarss](https://www.npmjs.com/package/sugarss) - Whitespace-sensitive SugarSS.
+- [@dreamsicle.io/stylelint-config-tailwindcss](https://www.npmjs.com/package/@dreamsicle.io/stylelint-config-tailwindcss) - Tailwind CSS directives and functions.
 
 ## Editor integrations
 

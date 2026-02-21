@@ -130,6 +130,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [stylelint-declaration-strict-value](https://www.npmjs.com/package/stylelint-declaration-strict-value) - Enforce variables, functions or keywords for the value of specific properties.
 - [stylelint-media-use-custom-media](https://www.npmjs.com/package/stylelint-media-use-custom-media) - Enforce usage of custom media queries.
 - [stylelint-no-restricted-syntax](https://www.npmjs.com/package/stylelint-no-restricted-syntax) - Disallow specified syntax.
+- [stylelint-plugin-rhythmguard](https://www.npmjs.com/package/stylelint-plugin-rhythmguard) - Enforce spacing scales and token usage with deterministic autofix (Pack).
 - [stylelint-scales](https://www.npmjs.com/package/stylelint-scales) - Enforce scales for numeric values (Pack).
 - [stylelint-value-no-unknown-custom-properties](https://www.npmjs.com/package/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
 

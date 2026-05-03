@@ -36,6 +36,10 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [stylelint-config-alphabetical-order](https://www.npmjs.com/package/stylelint-config-alphabetical-order) - Sorts properties alphabetically.
 - [stylelint-config-recess-order](https://www.npmjs.com/package/stylelint-config-recess-order) - Sorts properties logically the way Recess did and Bootstrap does.
 
+### Modern CSS
+
+- [stylelint-config-modern](https://www.npmjs.com/package/stylelint-config-modern) - A config to enforce modern CSS.
+
 ### Stylistic
 
 - [@stylistic/stylelint-config](https://www.npmjs.com/package/@stylistic/stylelint-config) - The stylistic shareable config for `@stylistic/stylelint-plugin`.

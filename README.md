@@ -70,6 +70,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [flycheck](https://github.com/flycheck/flycheck) - Emacs extension.
 - [sublimeLinter-stylelint](https://github.com/SublimeLinter/SublimeLinter-stylelint) - Sublime Text plugin.
 - [vscode-stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - VS Code extension.
+- [zed-stylelint](https://zed.dev/extensions/stylelint) - Zed extension.
 
 ## Formatters
 

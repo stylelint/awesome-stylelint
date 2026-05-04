@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: github-actions
+  - package-ecosystem: npm
     directory: '/'
     schedule:
       interval: monthly
@@ -8,3 +8,16 @@ updates:
       - 'pr: dependencies'
     cooldown:
       default-days: 7
+
+  - package-ecosystem: github-actions
+    directory: '/'
+    schedule:
+      interval: monthly
+    labels:
+      - 'pr: dependencies'
+    groups:
+      stylelint-actions:
+        patterns: ['stylelint/.github/*']
+    cooldown:
+      default-days: 7
+      exclude: ['stylelint/.github/*']

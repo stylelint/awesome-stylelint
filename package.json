@@ -5,9 +5,10 @@
   "description": "A list of awesome Stylelint",
   "repository": "https://github.com/stylelint/awesome-stylelint",
   "scripts": {
+    "lint": "awesome-lint",
     "test": "awesome-lint"
   },
   "devDependencies": {
-    "awesome-lint": "*"
+    "awesome-lint": "^2.3.0"
   }
 }

@@ -83,6 +83,10 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 
 ## Plugins
 
+### Accessibility
+
+- [@a11yfred/stylelint-plugin-neighbor](https://github.com/a11yfred/neighbor) - Enforces accessibility in CSS, including high-contrast and forced-colors fallbacks.
+
 ### Architecture and methodologies
 
 - [stylelint-plugin-defensive-css](https://www.npmjs.com/package/stylelint-plugin-defensive-css) - Enforce defensive CSS best practices (Pack).

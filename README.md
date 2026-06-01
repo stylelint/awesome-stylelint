@@ -125,6 +125,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 ### Performance
 
 - [stylelint-high-performance-animation](https://www.npmjs.com/package/stylelint-high-performance-animation) - Disallow low-performance animation and transition properties.
+- [stylelint-plugin-css-performance-budget](https://www.npmjs.com/package/stylelint-plugin-css-performance-budget) - Enforce CSS performance budgets (Pack).
 
 ### Stylistic
 

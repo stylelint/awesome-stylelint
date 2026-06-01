@@ -139,6 +139,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [stylelint-plugin-rhythmguard](https://www.npmjs.com/package/stylelint-plugin-rhythmguard) - Enforce spacing scales and design token usage across CSS and Tailwind class strings (Pack).
 - [stylelint-scales](https://www.npmjs.com/package/stylelint-scales) - Enforce scales for numeric values (Pack).
 - [stylelint-value-no-unknown-custom-properties](https://www.npmjs.com/package/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
+- [stylelint-plugin-container-query-sanity](https://www.npmjs.com/package/stylelint-plugin-container-query-sanity) - Enforce container query correctness and breakpoint token hygiene (Pack).
 
 ## Testing
 

@@ -89,6 +89,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [stylelint-react-native](https://www.npmjs.com/package/stylelint-react-native) - Enforce React Native rules (Pack).
 - [stylelint-selector-bem-pattern](https://www.npmjs.com/package/stylelint-selector-bem-pattern) - Enforce BEM patterns for selectors.
 - [@morev/stylelint-plugin](https://www.npmjs.com/package/@morev/stylelint-plugin) - Enforce (S)CSS and BEM best practices (Pack).
+- [stylelint-plugin-docusaurus](https://www.npmjs.com/package/stylelint-plugin-docusaurus) - Enforce Docusaurus stylesheet conventions (Pack).
 
 ### Browser compatibility
 

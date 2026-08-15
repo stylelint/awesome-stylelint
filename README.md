@@ -132,6 +132,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 
 ### Variables and constraints
 
+- [@designesy/stylelint-plugin-dtcg-tokens](https://www.npmjs.com/package/@designesy/stylelint-plugin-dtcg-tokens) - Enforce DTCG 2025.10 design token usage with auto-fix (Pack).
 - [stylelint-declaration-block-no-ignored-properties](https://www.npmjs.com/package/stylelint-declaration-block-no-ignored-properties) - Disallow property values that are ignored.
 - [stylelint-declaration-strict-value](https://www.npmjs.com/package/stylelint-declaration-strict-value) - Enforce variables, functions or keywords for the value of specific properties.
 - [stylelint-media-use-custom-media](https://www.npmjs.com/package/stylelint-media-use-custom-media) - Enforce usage of custom media queries.

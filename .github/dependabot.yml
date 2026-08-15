@@ -6,8 +6,6 @@ updates:
       interval: monthly
     labels:
       - 'pr: dependencies'
-    cooldown:
-      default-days: 7
 
   - package-ecosystem: github-actions
     directory: '/'
@@ -19,5 +17,4 @@ updates:
       stylelint-actions:
         patterns: ['stylelint/.github/*']
     cooldown:
-      default-days: 7
       exclude: ['stylelint/.github/*']

@@ -139,6 +139,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 - [stylelint-plugin-rhythmguard](https://www.npmjs.com/package/stylelint-plugin-rhythmguard) - Enforce spacing scales and design token usage across CSS and Tailwind class strings (Pack).
 - [stylelint-scales](https://www.npmjs.com/package/stylelint-scales) - Enforce scales for numeric values (Pack).
 - [stylelint-value-no-unknown-custom-properties](https://www.npmjs.com/package/stylelint-value-no-unknown-custom-properties) - Disallow unknown custom properties.
+- [@designesy/stylelint-plugin-dtcg-tokens](https://www.npmjs.com/package/@designesy/stylelint-plugin-dtcg-tokens) - Enforce DTCG 2025.10 design token usage in CSS with auto-fix (Pack).
 
 ## Testing
 

@@ -27,7 +27,7 @@ A list of awesome Stylelint configs, plugins, integrations etc.
 ### Custom syntaxes
 
 - [stylelint-config-html](https://www.npmjs.com/package/stylelint-config-html) - Config for HTML and HTML-like files, including XML, Vue, Svelte, Astro, and PHP.
-- [stylelint-config-recommended-vue](https://www.npmjs.com/package/stylelint-config-recommended-vue) - The recommended shareable Vue config for Stylelint.
+- [stylelint-config-standard-vue](https://www.npmjs.com/package/stylelint-config-standard-vue) - Standard config for Vue.
 - [stylelint-config-sass-guidelines](https://www.npmjs.com/package/stylelint-config-sass-guidelines) - Sass guidelines config.
 - [stylelint-config-standard-scss](https://www.npmjs.com/package/stylelint-config-standard-scss) - Standard config for SCSS.
 - [@dreamsicle.io/stylelint-config-tailwindcss](https://www.npmjs.com/package/@dreamsicle.io/stylelint-config-tailwindcss) - Tailwind CSS directives and functions.

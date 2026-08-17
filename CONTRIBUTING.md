@@ -1,38 +1,43 @@
-# Contribution Guidelines
+# Contributing
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Your suggestion must be aligned with the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md):
 
-If you are new to open source, I've written a [guide for how to contribute](https://css-tricks.com/how-to-contribute-to-an-open-source-project/).
+> Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
 
-> The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed. Please carefully read everything in `Adding to this list`.
+It should be:
 
-## Table of Contents
+- mature
+- maintained
+- well-adopted
+- well-tested
+- of a high quality
+- secure
 
-- [Adding to this list](#adding-to-this-list)
-- [Updating your Pull Request](#updating-your-pull-request)
+If you believe your suggestion meets those criteria, you can open a pull request to add it to the list.
 
-## Adding to this list
+## Opening a pull request
 
-Please ensure your pull request adheres to the following guidelines:
+Your suggestion should:
 
-- Please submit your contribution at the end of the list of the relevant category. If you don't find a section that it belongs in, please make one.
-- Please don't use a long description. The description should not wrap to 3 lines, ideally it should fit on one.
-- Search previous suggestions before making a new one, as yours may be a duplicate. 
-- Please don't use bold or italics unless it's somehow appropriate to the link.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- Use [Title Casing](https://titlecaseconverter.com/).
-- Use the following format: `[List Name](link)`
-- New categories or improvements to the existing categorization are welcome.
-- Please check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
+- be placed alphabetically in the relevant category
+- use the `[Suggestion name](link) - Description.` format
+- have a short, one-line description
+- not use bold or italics
 
-Thank you for your suggestions!
+Your pull request should have the title "Add \<suggestion\>".
 
-## Updating your Pull Request
+### Review
 
-Sometimes, we will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-actions list guidelines.
+We're more likely to close pull requests than to accept them, especially if you're suggesting something you've created or written, because properly assessing whether a suggestion meets the criteria may be too time-consuming.
 
-[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+We may not give a specific reason for closing your pull request.
+
+If we close it, your suggestion can still be discovered by people if you use the appropriate keywords in your `package.json`. For example:
+
+- `stylelint-formatter` for custom formatters
+- `stylelint-integration` for integrations
+- `stylelint-plugin` for plugins
+- `stylelint-syntax` for custom systaxes
+- and so on.
+
+You're welcome to reopen your pull request after a few months if it becomes clearer that the suggestion meets the criteria.

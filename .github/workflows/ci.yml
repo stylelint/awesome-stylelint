@@ -8,12 +8,12 @@ on:
 
 jobs:
   lint:
-    uses: stylelint/.github/.github/workflows/call-lint.yml@ab7979355590956aa96d306dedfda6b2d42c4982 # 1.1.0
+    uses: stylelint/.github/.github/workflows/call-lint.yml@c7bd02a469ce20d1f3a35b7561b99262cba9a683 # 2.0.0
     permissions:
       contents: read
 
   dependency-review:
     if: github.event_name == 'pull_request'
-    uses: stylelint/.github/.github/workflows/call-dependency-review.yml@ab7979355590956aa96d306dedfda6b2d42c4982 # 1.1.0
+    uses: stylelint/.github/.github/workflows/call-dependency-review.yml@c7bd02a469ce20d1f3a35b7561b99262cba9a683 # 2.0.0
     permissions:
       contents: read
